@@ -1,0 +1,2576 @@
+Loading libraries, please wait...
+[23:52:49 INFO]: Starting minecraft server version 1.12.1
+[23:52:49 INFO]: Loading properties
+[23:52:49 INFO]: Default game type: SURVIVAL
+[23:52:49 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[23:52:50 INFO]: Debug logging is disabled
+[23:52:50 INFO]: Server Ping Player Sample Count: 12
+
+[23:52:50 INFO]: Using 4 threads for Netty based IO
+[23:52:50 INFO]: Generating keypair
+[23:52:51 INFO]: Starting Minecraft server on *:25565
+[23:52:51 INFO]: Using epoll channel type
+[23:52:52 WARN]: **** FAILED TO BIND TO PORT!
+[23:52:52 WARN]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Adresse déjà utilisée
+[23:52:52 WARN]: Perhaps a server is already running on that port?
+[23:52:52 INFO]: Stopping server
+[23:52:52 INFO]: Saving players
+Loading libraries, please wait...
+[23:55:04 INFO]: Starting minecraft server version 1.12.1
+[23:55:04 INFO]: Loading properties
+[23:55:04 INFO]: Default game type: SURVIVAL
+[23:55:04 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[23:55:05 INFO]: Debug logging is disabled
+[23:55:05 INFO]: Server Ping Player Sample Count: 12
+
+[23:55:05 INFO]: Using 4 threads for Netty based IO
+[23:55:05 INFO]: Generating keypair
+[23:55:05 INFO]: Starting Minecraft server on *:25565
+[23:55:05 INFO]: Using epoll channel type
+[23:55:06 INFO]: Set PluginClassLoader as parallel capable
+[23:55:06 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[23:55:06 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[23:55:06 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[23:55:06 INFO]: Preparing level "world"
+[23:55:06 INFO]: -------- World Settings For [world] --------
+[23:55:06 INFO]: Cactus Growth Modifier: 100%
+[23:55:06 INFO]: Cane Growth Modifier: 100%
+[23:55:06 INFO]: Melon Growth Modifier: 100%
+[23:55:06 INFO]: Mushroom Growth Modifier: 100%
+[23:55:06 INFO]: Pumpkin Growth Modifier: 100%
+[23:55:06 INFO]: Sapling Growth Modifier: 100%
+[23:55:06 INFO]: Wheat Growth Modifier: 100%
+[23:55:06 INFO]: NetherWart Growth Modifier: 100%
+[23:55:06 INFO]: Vine Growth Modifier: 100%
+[23:55:06 INFO]: Cocoa Growth Modifier: 100%
+[23:55:06 INFO]: Mob Spawn Range: 4
+[23:55:06 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:55:06 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:55:06 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:55:06 INFO]: Random Lighting Updates: false
+[23:55:06 INFO]: Structure Info Saving: true
+[23:55:06 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:55:06 INFO]: Max TNT Explosions: 100
+[23:55:06 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:55:06 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:55:06 INFO]: Item Despawn Rate: 6000
+[23:55:06 INFO]: Item Merge Radius: 2.5
+[23:55:06 INFO]: Arrow Despawn Rate: 1200
+[23:55:06 INFO]: View Distance: 10
+[23:55:06 INFO]: Experience Merge Radius: 3.0
+[23:55:06 INFO]: Zombie Aggressive Towards Villager: true
+[23:55:06 INFO]: Nerfing mobs spawned from spawners: false
+[23:55:07 INFO]: -------- World Settings For [world_nether] --------
+[23:55:07 INFO]: Cactus Growth Modifier: 100%
+[23:55:07 INFO]: Cane Growth Modifier: 100%
+[23:55:07 INFO]: Melon Growth Modifier: 100%
+[23:55:07 INFO]: Mushroom Growth Modifier: 100%
+[23:55:07 INFO]: Pumpkin Growth Modifier: 100%
+[23:55:07 INFO]: Sapling Growth Modifier: 100%
+[23:55:07 INFO]: Wheat Growth Modifier: 100%
+[23:55:07 INFO]: NetherWart Growth Modifier: 100%
+[23:55:07 INFO]: Vine Growth Modifier: 100%
+[23:55:07 INFO]: Cocoa Growth Modifier: 100%
+[23:55:07 INFO]: Mob Spawn Range: 4
+[23:55:07 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:55:07 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:55:07 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:55:07 INFO]: Random Lighting Updates: false
+[23:55:07 INFO]: Structure Info Saving: true
+[23:55:07 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:55:07 INFO]: Max TNT Explosions: 100
+[23:55:07 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:55:07 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:55:07 INFO]: Item Despawn Rate: 6000
+[23:55:07 INFO]: Item Merge Radius: 2.5
+[23:55:07 INFO]: Arrow Despawn Rate: 1200
+[23:55:07 INFO]: View Distance: 10
+[23:55:07 INFO]: Experience Merge Radius: 3.0
+[23:55:07 INFO]: Zombie Aggressive Towards Villager: true
+[23:55:07 INFO]: Nerfing mobs spawned from spawners: false
+[23:55:07 INFO]: -------- World Settings For [world_the_end] --------
+[23:55:07 INFO]: Cactus Growth Modifier: 100%
+[23:55:07 INFO]: Cane Growth Modifier: 100%
+[23:55:07 INFO]: Melon Growth Modifier: 100%
+[23:55:07 INFO]: Mushroom Growth Modifier: 100%
+[23:55:07 INFO]: Pumpkin Growth Modifier: 100%
+[23:55:07 INFO]: Sapling Growth Modifier: 100%
+[23:55:07 INFO]: Wheat Growth Modifier: 100%
+[23:55:07 INFO]: NetherWart Growth Modifier: 100%
+[23:55:08 INFO]: Vine Growth Modifier: 100%
+[23:55:08 INFO]: Cocoa Growth Modifier: 100%
+[23:55:08 INFO]: Mob Spawn Range: 4
+[23:55:08 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:55:08 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:55:08 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:55:08 INFO]: Random Lighting Updates: false
+[23:55:08 INFO]: Structure Info Saving: true
+[23:55:08 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:55:08 INFO]: Max TNT Explosions: 100
+[23:55:08 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:55:08 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:55:08 INFO]: Item Despawn Rate: 6000
+[23:55:08 INFO]: Item Merge Radius: 2.5
+[23:55:08 INFO]: Arrow Despawn Rate: 1200
+[23:55:08 INFO]: View Distance: 10
+[23:55:08 INFO]: Experience Merge Radius: 3.0
+[23:55:08 INFO]: Zombie Aggressive Towards Villager: true
+[23:55:08 INFO]: Nerfing mobs spawned from spawners: false
+[23:55:08 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[23:55:09 INFO]: Preparing spawn area: 0%
+[23:55:10 INFO]: Preparing spawn area: 6%
+[23:55:11 INFO]: Preparing spawn area: 32%
+[23:55:12 INFO]: Preparing spawn area: 60%
+[23:55:13 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[23:55:14 INFO]: Preparing spawn area: 64%
+[23:55:14 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[23:55:15 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[23:55:16 INFO]: WEPIF: Using the Bukkit Permissions API.
+[23:55:16 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[23:55:16 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[23:55:16 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[23:55:16 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[23:55:16 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[23:55:16 INFO]: [RaspberryJuice] Using RELATIVE locations
+[23:55:16 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[23:55:16 INFO]: [RaspberryJuice] ThreadListener Started
+[23:55:16 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:55:16 INFO]: Done (10,165s)! For help, type "help" or "?"
+Loading libraries, please wait...
+[00:01:14 INFO]: Starting minecraft server version 1.12.1
+[00:01:14 INFO]: Loading properties
+[00:01:14 INFO]: Default game type: SURVIVAL
+[00:01:15 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[00:01:15 INFO]: Debug logging is disabled
+[00:01:15 INFO]: Server Ping Player Sample Count: 12
+
+[00:01:15 INFO]: Using 4 threads for Netty based IO
+[00:01:15 INFO]: Generating keypair
+[00:01:16 INFO]: Starting Minecraft server on *:25565
+[00:01:16 INFO]: Using epoll channel type
+[00:01:16 INFO]: Set PluginClassLoader as parallel capable
+[00:01:17 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:01:17 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[00:01:17 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:01:17 INFO]: Preparing level "world"
+[00:01:17 INFO]: -------- World Settings For [world] --------
+[00:01:17 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:01:17 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:01:17 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:01:17 INFO]: Random Lighting Updates: false
+[00:01:17 INFO]: Structure Info Saving: true
+[00:01:17 INFO]: Mob Spawn Range: 4
+[00:01:17 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:01:17 INFO]: Max TNT Explosions: 100
+[00:01:17 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:01:17 INFO]: Cactus Growth Modifier: 100%
+[00:01:17 INFO]: Cane Growth Modifier: 100%
+[00:01:17 INFO]: Melon Growth Modifier: 100%
+[00:01:17 INFO]: Mushroom Growth Modifier: 100%
+[00:01:17 INFO]: Pumpkin Growth Modifier: 100%
+[00:01:17 INFO]: Sapling Growth Modifier: 100%
+[00:01:17 INFO]: Wheat Growth Modifier: 100%
+[00:01:17 INFO]: NetherWart Growth Modifier: 100%
+[00:01:17 INFO]: Vine Growth Modifier: 100%
+[00:01:17 INFO]: Cocoa Growth Modifier: 100%
+[00:01:17 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:01:17 INFO]: Item Despawn Rate: 6000
+[00:01:17 INFO]: Item Merge Radius: 2.5
+[00:01:17 INFO]: Arrow Despawn Rate: 1200
+[00:01:17 INFO]: View Distance: 10
+[00:01:17 INFO]: Experience Merge Radius: 3.0
+[00:01:17 INFO]: Zombie Aggressive Towards Villager: true
+[00:01:17 INFO]: Nerfing mobs spawned from spawners: false
+[00:01:18 INFO]: -------- World Settings For [world_nether] --------
+[00:01:18 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:01:18 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:01:18 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:01:18 INFO]: Random Lighting Updates: false
+[00:01:18 INFO]: Structure Info Saving: true
+[00:01:18 INFO]: Mob Spawn Range: 4
+[00:01:18 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:01:18 INFO]: Max TNT Explosions: 100
+[00:01:18 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:01:18 INFO]: Cactus Growth Modifier: 100%
+[00:01:18 INFO]: Cane Growth Modifier: 100%
+[00:01:18 INFO]: Melon Growth Modifier: 100%
+[00:01:18 INFO]: Mushroom Growth Modifier: 100%
+[00:01:18 INFO]: Pumpkin Growth Modifier: 100%
+[00:01:18 INFO]: Sapling Growth Modifier: 100%
+[00:01:18 INFO]: Wheat Growth Modifier: 100%
+[00:01:18 INFO]: NetherWart Growth Modifier: 100%
+[00:01:18 INFO]: Vine Growth Modifier: 100%
+[00:01:18 INFO]: Cocoa Growth Modifier: 100%
+[00:01:18 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:01:18 INFO]: Item Despawn Rate: 6000
+[00:01:18 INFO]: Item Merge Radius: 2.5
+[00:01:18 INFO]: Arrow Despawn Rate: 1200
+[00:01:18 INFO]: View Distance: 10
+[00:01:18 INFO]: Experience Merge Radius: 3.0
+[00:01:18 INFO]: Zombie Aggressive Towards Villager: true
+[00:01:18 INFO]: Nerfing mobs spawned from spawners: false
+[00:01:19 INFO]: -------- World Settings For [world_the_end] --------
+[00:01:19 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:01:19 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:01:19 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:01:19 INFO]: Random Lighting Updates: false
+[00:01:19 INFO]: Structure Info Saving: true
+[00:01:19 INFO]: Mob Spawn Range: 4
+[00:01:19 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:01:19 INFO]: Max TNT Explosions: 100
+[00:01:19 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:01:19 INFO]: Cactus Growth Modifier: 100%
+[00:01:19 INFO]: Cane Growth Modifier: 100%
+[00:01:19 INFO]: Melon Growth Modifier: 100%
+[00:01:19 INFO]: Mushroom Growth Modifier: 100%
+[00:01:19 INFO]: Pumpkin Growth Modifier: 100%
+[00:01:19 INFO]: Sapling Growth Modifier: 100%
+[00:01:19 INFO]: Wheat Growth Modifier: 100%
+[00:01:19 INFO]: NetherWart Growth Modifier: 100%
+[00:01:19 INFO]: Vine Growth Modifier: 100%
+[00:01:19 INFO]: Cocoa Growth Modifier: 100%
+[00:01:19 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:01:19 INFO]: Item Despawn Rate: 6000
+[00:01:19 INFO]: Item Merge Radius: 2.5
+[00:01:19 INFO]: Arrow Despawn Rate: 1200
+[00:01:19 INFO]: View Distance: 10
+[00:01:19 INFO]: Experience Merge Radius: 3.0
+[00:01:19 INFO]: Zombie Aggressive Towards Villager: true
+[00:01:19 INFO]: Nerfing mobs spawned from spawners: false
+[00:01:19 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[00:01:20 INFO]: Preparing spawn area: 0%
+[00:01:21 INFO]: Preparing spawn area: 7%
+[00:01:22 INFO]: Preparing spawn area: 32%
+[00:01:23 INFO]: Preparing spawn area: 56%
+[00:01:24 INFO]: Preparing spawn area: 88%
+[00:01:24 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[00:01:25 INFO]: Preparing spawn area: 36%
+[00:01:26 INFO]: Preparing spawn area: 89%
+[00:01:27 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[00:01:27 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:01:28 INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:01:28 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[00:01:28 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[00:01:28 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[00:01:28 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[00:01:28 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[00:01:28 INFO]: [RaspberryJuice] Using RELATIVE locations
+[00:01:28 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[00:01:28 INFO]: [RaspberryJuice] ThreadListener Started
+[00:01:28 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:01:29 INFO]: Done (12,012s)! For help, type "help" or "?"
+Loading libraries, please wait...
+[00:15:43 INFO]: Starting minecraft server version 1.12.1
+[00:15:43 INFO]: Loading properties
+[00:15:43 INFO]: Default game type: SURVIVAL
+[00:15:43 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[00:15:44 INFO]: Debug logging is disabled
+[00:15:44 INFO]: Server Ping Player Sample Count: 12
+
+[00:15:44 INFO]: Using 4 threads for Netty based IO
+[00:15:44 INFO]: Generating keypair
+[00:15:45 INFO]: Starting Minecraft server on *:25565
+[00:15:45 INFO]: Using epoll channel type
+[00:15:45 INFO]: Set PluginClassLoader as parallel capable
+[00:15:45 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:15:45 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[00:15:45 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:15:45 INFO]: Preparing level "world"
+[00:15:45 INFO]: -------- World Settings For [world] --------
+[00:15:46 INFO]: Cactus Growth Modifier: 100%
+[00:15:46 INFO]: Cane Growth Modifier: 100%
+[00:15:46 INFO]: Melon Growth Modifier: 100%
+[00:15:46 INFO]: Mushroom Growth Modifier: 100%
+[00:15:46 INFO]: Pumpkin Growth Modifier: 100%
+[00:15:46 INFO]: Sapling Growth Modifier: 100%
+[00:15:46 INFO]: Wheat Growth Modifier: 100%
+[00:15:46 INFO]: NetherWart Growth Modifier: 100%
+[00:15:46 INFO]: Vine Growth Modifier: 100%
+[00:15:46 INFO]: Cocoa Growth Modifier: 100%
+[00:15:46 INFO]: Mob Spawn Range: 4
+[00:15:46 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:15:46 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:15:46 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:15:46 INFO]: Random Lighting Updates: false
+[00:15:46 INFO]: Structure Info Saving: true
+[00:15:46 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:15:46 INFO]: Max TNT Explosions: 100
+[00:15:46 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:15:46 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:15:46 INFO]: Item Despawn Rate: 6000
+[00:15:46 INFO]: Item Merge Radius: 2.5
+[00:15:46 INFO]: Arrow Despawn Rate: 1200
+[00:15:46 INFO]: Nerfing mobs spawned from spawners: false
+[00:15:46 INFO]: View Distance: 10
+[00:15:46 INFO]: Experience Merge Radius: 3.0
+[00:15:46 INFO]: Zombie Aggressive Towards Villager: true
+[00:15:47 INFO]: -------- World Settings For [world_nether] --------
+[00:15:47 INFO]: Cactus Growth Modifier: 100%
+[00:15:47 INFO]: Cane Growth Modifier: 100%
+[00:15:47 INFO]: Melon Growth Modifier: 100%
+[00:15:47 INFO]: Mushroom Growth Modifier: 100%
+[00:15:47 INFO]: Pumpkin Growth Modifier: 100%
+[00:15:47 INFO]: Sapling Growth Modifier: 100%
+[00:15:47 INFO]: Wheat Growth Modifier: 100%
+[00:15:47 INFO]: NetherWart Growth Modifier: 100%
+[00:15:47 INFO]: Vine Growth Modifier: 100%
+[00:15:47 INFO]: Cocoa Growth Modifier: 100%
+[00:15:47 INFO]: Mob Spawn Range: 4
+[00:15:47 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:15:47 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:15:47 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:15:47 INFO]: Random Lighting Updates: false
+[00:15:47 INFO]: Structure Info Saving: true
+[00:15:47 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:15:47 INFO]: Max TNT Explosions: 100
+[00:15:47 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:15:47 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:15:47 INFO]: Item Despawn Rate: 6000
+[00:15:47 INFO]: Item Merge Radius: 2.5
+[00:15:47 INFO]: Arrow Despawn Rate: 1200
+[00:15:47 INFO]: Nerfing mobs spawned from spawners: false
+[00:15:47 INFO]: View Distance: 10
+[00:15:47 INFO]: Experience Merge Radius: 3.0
+[00:15:47 INFO]: Zombie Aggressive Towards Villager: true
+[00:15:47 INFO]: -------- World Settings For [world_the_end] --------
+[00:15:47 INFO]: Cactus Growth Modifier: 100%
+[00:15:47 INFO]: Cane Growth Modifier: 100%
+[00:15:47 INFO]: Melon Growth Modifier: 100%
+[00:15:47 INFO]: Mushroom Growth Modifier: 100%
+[00:15:47 INFO]: Pumpkin Growth Modifier: 100%
+[00:15:47 INFO]: Sapling Growth Modifier: 100%
+[00:15:47 INFO]: Wheat Growth Modifier: 100%
+[00:15:47 INFO]: NetherWart Growth Modifier: 100%
+[00:15:47 INFO]: Vine Growth Modifier: 100%
+[00:15:47 INFO]: Cocoa Growth Modifier: 100%
+[00:15:47 INFO]: Mob Spawn Range: 4
+[00:15:47 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:15:47 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:15:47 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:15:47 INFO]: Random Lighting Updates: false
+[00:15:47 INFO]: Structure Info Saving: true
+[00:15:47 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:15:47 INFO]: Max TNT Explosions: 100
+[00:15:47 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:15:47 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:15:47 INFO]: Item Despawn Rate: 6000
+[00:15:47 INFO]: Item Merge Radius: 2.5
+[00:15:47 INFO]: Arrow Despawn Rate: 1200
+[00:15:47 INFO]: Nerfing mobs spawned from spawners: false
+[00:15:47 INFO]: View Distance: 10
+[00:15:47 INFO]: Experience Merge Radius: 3.0
+[00:15:47 INFO]: Zombie Aggressive Towards Villager: true
+[00:15:48 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[00:15:49 INFO]: Preparing spawn area: 0%
+[00:15:50 INFO]: Preparing spawn area: 8%
+[00:15:51 INFO]: Preparing spawn area: 36%
+[00:15:52 INFO]: Preparing spawn area: 65%
+[00:15:53 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[00:15:54 INFO]: Preparing spawn area: 54%
+[00:15:55 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[00:15:55 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:15:56 INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:15:56 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[00:15:56 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[00:15:56 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[00:15:56 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[00:15:56 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[00:15:56 INFO]: [RaspberryJuice] Using RELATIVE locations
+[00:15:56 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[00:15:56 INFO]: [RaspberryJuice] ThreadListener Started
+[00:15:56 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:15:57 INFO]: Done (11,286s)! For help, type "help" or "?"
+[00:16:04 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[00:16:05 INFO]: Welcome Minepluie
+
+[00:16:06 INFO]: Minepluie[/127.0.0.1:46202] logged in with entity id 67 at ([world]190.2635478353602, 62.0, 245.30000001192093)
+[00:16:07 INFO]: [RaspberryJuice] Starting input thread
+[00:16:07 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:46148.
+[00:16:07 INFO]: [RaspberryJuice] Starting output thread!
+Loading libraries, please wait...
+[00:19:31 INFO]: Starting minecraft server version 1.12.1
+[00:19:31 INFO]: Loading properties
+[00:19:31 INFO]: Default game type: SURVIVAL
+[00:19:31 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[00:19:32 INFO]: Debug logging is disabled
+[00:19:32 INFO]: Server Ping Player Sample Count: 12
+
+[00:19:32 INFO]: Using 4 threads for Netty based IO
+[00:19:32 INFO]: Generating keypair
+[00:19:32 INFO]: Starting Minecraft server on *:25565
+[00:19:32 INFO]: Using epoll channel type
+[00:19:33 INFO]: Set PluginClassLoader as parallel capable
+[00:19:33 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:19:33 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[00:19:33 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:19:33 INFO]: Preparing level "world"
+[00:19:33 INFO]: -------- World Settings For [world] --------
+[00:19:33 INFO]: Cactus Growth Modifier: 100%
+[00:19:33 INFO]: Cane Growth Modifier: 100%
+[00:19:33 INFO]: Melon Growth Modifier: 100%
+[00:19:33 INFO]: Mushroom Growth Modifier: 100%
+[00:19:33 INFO]: Pumpkin Growth Modifier: 100%
+[00:19:33 INFO]: Sapling Growth Modifier: 100%
+[00:19:33 INFO]: Wheat Growth Modifier: 100%
+[00:19:33 INFO]: NetherWart Growth Modifier: 100%
+[00:19:33 INFO]: Vine Growth Modifier: 100%
+[00:19:33 INFO]: Cocoa Growth Modifier: 100%
+[00:19:33 INFO]: Mob Spawn Range: 4
+[00:19:33 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:19:33 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:19:33 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:19:33 INFO]: Random Lighting Updates: false
+[00:19:33 INFO]: Structure Info Saving: true
+[00:19:33 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:19:33 INFO]: Max TNT Explosions: 100
+[00:19:33 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:19:33 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:19:33 INFO]: Item Despawn Rate: 6000
+[00:19:33 INFO]: Item Merge Radius: 2.5
+[00:19:33 INFO]: Arrow Despawn Rate: 1200
+[00:19:33 INFO]: View Distance: 10
+[00:19:33 INFO]: Experience Merge Radius: 3.0
+[00:19:33 INFO]: Zombie Aggressive Towards Villager: true
+[00:19:33 INFO]: Nerfing mobs spawned from spawners: false
+[00:19:34 INFO]: -------- World Settings For [world_nether] --------
+[00:19:34 INFO]: Cactus Growth Modifier: 100%
+[00:19:34 INFO]: Cane Growth Modifier: 100%
+[00:19:34 INFO]: Melon Growth Modifier: 100%
+[00:19:34 INFO]: Mushroom Growth Modifier: 100%
+[00:19:34 INFO]: Pumpkin Growth Modifier: 100%
+[00:19:34 INFO]: Sapling Growth Modifier: 100%
+[00:19:34 INFO]: Wheat Growth Modifier: 100%
+[00:19:34 INFO]: NetherWart Growth Modifier: 100%
+[00:19:34 INFO]: Vine Growth Modifier: 100%
+[00:19:34 INFO]: Cocoa Growth Modifier: 100%
+[00:19:34 INFO]: Mob Spawn Range: 4
+[00:19:34 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:19:34 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:19:34 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:19:34 INFO]: Random Lighting Updates: false
+[00:19:34 INFO]: Structure Info Saving: true
+[00:19:34 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:19:34 INFO]: Max TNT Explosions: 100
+[00:19:34 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:19:34 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:19:34 INFO]: Item Despawn Rate: 6000
+[00:19:34 INFO]: Item Merge Radius: 2.5
+[00:19:34 INFO]: Arrow Despawn Rate: 1200
+[00:19:34 INFO]: View Distance: 10
+[00:19:34 INFO]: Experience Merge Radius: 3.0
+[00:19:34 INFO]: Zombie Aggressive Towards Villager: true
+[00:19:34 INFO]: Nerfing mobs spawned from spawners: false
+[00:19:34 INFO]: -------- World Settings For [world_the_end] --------
+[00:19:34 INFO]: Cactus Growth Modifier: 100%
+[00:19:34 INFO]: Cane Growth Modifier: 100%
+[00:19:34 INFO]: Melon Growth Modifier: 100%
+[00:19:34 INFO]: Mushroom Growth Modifier: 100%
+[00:19:34 INFO]: Pumpkin Growth Modifier: 100%
+[00:19:34 INFO]: Sapling Growth Modifier: 100%
+[00:19:34 INFO]: Wheat Growth Modifier: 100%
+[00:19:34 INFO]: NetherWart Growth Modifier: 100%
+[00:19:34 INFO]: Vine Growth Modifier: 100%
+[00:19:34 INFO]: Cocoa Growth Modifier: 100%
+[00:19:34 INFO]: Mob Spawn Range: 4
+[00:19:34 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:19:34 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:19:34 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:19:34 INFO]: Random Lighting Updates: false
+[00:19:34 INFO]: Structure Info Saving: true
+[00:19:34 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:19:34 INFO]: Max TNT Explosions: 100
+[00:19:34 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:19:34 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:19:34 INFO]: Item Despawn Rate: 6000
+[00:19:34 INFO]: Item Merge Radius: 2.5
+[00:19:34 INFO]: Arrow Despawn Rate: 1200
+[00:19:34 INFO]: View Distance: 10
+[00:19:34 INFO]: Experience Merge Radius: 3.0
+[00:19:34 INFO]: Zombie Aggressive Towards Villager: true
+[00:19:34 INFO]: Nerfing mobs spawned from spawners: false
+[00:19:35 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[00:19:36 INFO]: Preparing spawn area: 0%
+[00:19:37 INFO]: Preparing spawn area: 16%
+[00:19:38 INFO]: Preparing spawn area: 51%
+[00:19:39 INFO]: Preparing spawn area: 88%
+[00:19:39 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[00:19:40 INFO]: Preparing spawn area: 59%
+[00:19:41 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[00:19:41 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:19:42 INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:19:42 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[00:19:42 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[00:19:42 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[00:19:42 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[00:19:42 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[00:19:42 INFO]: [RaspberryJuice] Using RELATIVE locations
+[00:19:42 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[00:19:42 INFO]: [RaspberryJuice] ThreadListener Started
+[00:19:42 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:19:42 INFO]: Done (9,623s)! For help, type "help" or "?"
+[00:19:57 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[00:19:57 INFO]: Welcome Minepluie
+
+[00:19:58 INFO]: Minepluie[/127.0.0.1:49794] logged in with entity id 66 at ([world]190.5741197117417, 62.0, 246.69999998807907)
+[00:19:58 INFO]: [RaspberryJuice] Starting input thread
+[00:19:58 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60472.
+[00:19:58 INFO]: [RaspberryJuice] Starting output thread!
+[00:20:00 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[00:22:17 INFO]: Stopping server
+Loading libraries, please wait...
+[00:22:36 INFO]: Starting minecraft server version 1.12.1
+[00:22:36 INFO]: Loading properties
+[00:22:36 INFO]: Default game type: SURVIVAL
+[00:22:36 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[00:22:36 INFO]: Debug logging is disabled
+[00:22:36 INFO]: Server Ping Player Sample Count: 12
+
+[00:22:36 INFO]: Using 4 threads for Netty based IO
+[00:22:37 INFO]: Generating keypair
+[00:22:37 INFO]: Starting Minecraft server on *:25565
+[00:22:37 INFO]: Using epoll channel type
+[00:22:37 INFO]: Set PluginClassLoader as parallel capable
+[00:22:38 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:22:38 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[00:22:38 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:22:38 INFO]: Preparing level "world"
+[00:22:38 INFO]: -------- World Settings For [world] --------
+[00:22:38 INFO]: Cactus Growth Modifier: 100%
+[00:22:38 INFO]: Cane Growth Modifier: 100%
+[00:22:38 INFO]: Melon Growth Modifier: 100%
+[00:22:38 INFO]: Mushroom Growth Modifier: 100%
+[00:22:38 INFO]: Pumpkin Growth Modifier: 100%
+[00:22:38 INFO]: Sapling Growth Modifier: 100%
+[00:22:38 INFO]: Wheat Growth Modifier: 100%
+[00:22:38 INFO]: NetherWart Growth Modifier: 100%
+[00:22:38 INFO]: Vine Growth Modifier: 100%
+[00:22:38 INFO]: Cocoa Growth Modifier: 100%
+[00:22:38 INFO]: Mob Spawn Range: 4
+[00:22:38 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:22:38 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:22:38 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:22:38 INFO]: Random Lighting Updates: false
+[00:22:38 INFO]: Structure Info Saving: true
+[00:22:38 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:22:38 INFO]: Max TNT Explosions: 100
+[00:22:38 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:22:38 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:22:38 INFO]: Item Despawn Rate: 6000
+[00:22:38 INFO]: Item Merge Radius: 2.5
+[00:22:38 INFO]: Arrow Despawn Rate: 1200
+[00:22:38 INFO]: View Distance: 10
+[00:22:38 INFO]: Experience Merge Radius: 3.0
+[00:22:38 INFO]: Zombie Aggressive Towards Villager: true
+[00:22:38 INFO]: Nerfing mobs spawned from spawners: false
+[00:22:39 INFO]: -------- World Settings For [world_nether] --------
+[00:22:39 INFO]: Cactus Growth Modifier: 100%
+[00:22:39 INFO]: Cane Growth Modifier: 100%
+[00:22:39 INFO]: Melon Growth Modifier: 100%
+[00:22:39 INFO]: Mushroom Growth Modifier: 100%
+[00:22:39 INFO]: Pumpkin Growth Modifier: 100%
+[00:22:39 INFO]: Sapling Growth Modifier: 100%
+[00:22:39 INFO]: Wheat Growth Modifier: 100%
+[00:22:39 INFO]: NetherWart Growth Modifier: 100%
+[00:22:39 INFO]: Vine Growth Modifier: 100%
+[00:22:39 INFO]: Cocoa Growth Modifier: 100%
+[00:22:39 INFO]: Mob Spawn Range: 4
+[00:22:39 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:22:39 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:22:39 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:22:39 INFO]: Random Lighting Updates: false
+[00:22:39 INFO]: Structure Info Saving: true
+[00:22:39 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:22:39 INFO]: Max TNT Explosions: 100
+[00:22:39 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:22:39 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:22:39 INFO]: Item Despawn Rate: 6000
+[00:22:39 INFO]: Item Merge Radius: 2.5
+[00:22:39 INFO]: Arrow Despawn Rate: 1200
+[00:22:39 INFO]: View Distance: 10
+[00:22:39 INFO]: Experience Merge Radius: 3.0
+[00:22:39 INFO]: Zombie Aggressive Towards Villager: true
+[00:22:39 INFO]: Nerfing mobs spawned from spawners: false
+[00:22:39 INFO]: -------- World Settings For [world_the_end] --------
+[00:22:39 INFO]: Cactus Growth Modifier: 100%
+[00:22:39 INFO]: Cane Growth Modifier: 100%
+[00:22:39 INFO]: Melon Growth Modifier: 100%
+[00:22:39 INFO]: Mushroom Growth Modifier: 100%
+[00:22:39 INFO]: Pumpkin Growth Modifier: 100%
+[00:22:39 INFO]: Sapling Growth Modifier: 100%
+[00:22:39 INFO]: Wheat Growth Modifier: 100%
+[00:22:39 INFO]: NetherWart Growth Modifier: 100%
+[00:22:39 INFO]: Vine Growth Modifier: 100%
+[00:22:39 INFO]: Cocoa Growth Modifier: 100%
+[00:22:39 INFO]: Mob Spawn Range: 4
+[00:22:39 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:22:39 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:22:39 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:22:39 INFO]: Random Lighting Updates: false
+[00:22:39 INFO]: Structure Info Saving: true
+[00:22:39 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:22:39 INFO]: Max TNT Explosions: 100
+[00:22:39 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:22:39 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:22:39 INFO]: Item Despawn Rate: 6000
+[00:22:39 INFO]: Item Merge Radius: 2.5
+[00:22:39 INFO]: Arrow Despawn Rate: 1200
+[00:22:39 INFO]: View Distance: 10
+[00:22:39 INFO]: Experience Merge Radius: 3.0
+[00:22:39 INFO]: Zombie Aggressive Towards Villager: true
+[00:22:39 INFO]: Nerfing mobs spawned from spawners: false
+[00:22:40 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[00:22:41 INFO]: Preparing spawn area: 0%
+[00:22:42 INFO]: Preparing spawn area: 9%
+[00:22:43 INFO]: Preparing spawn area: 40%
+[00:22:44 INFO]: Preparing spawn area: 80%
+[00:22:44 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[00:22:45 INFO]: Preparing spawn area: 62%
+[00:22:46 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[00:22:46 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:22:47 INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:22:47 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[00:22:47 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[00:22:47 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[00:22:47 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[00:22:47 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[00:22:47 INFO]: [RaspberryJuice] Using RELATIVE locations
+[00:22:47 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[00:22:47 INFO]: [RaspberryJuice] ThreadListener Started
+[00:22:47 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:22:47 INFO]: Done (9,759s)! For help, type "help" or "?"
+[00:22:52 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[00:22:53 INFO]: Welcome Minepluie
+
+[00:22:54 INFO]: Minepluie[/127.0.0.1:38522] logged in with entity id 64 at ([world]188.76224829060942, 62.0, 252.5440086125533)
+[00:22:54 INFO]: [RaspberryJuice] Starting input thread
+[00:22:54 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:39296.
+[00:22:54 INFO]: [RaspberryJuice] Starting output thread!
+[00:22:54 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[00:23:15 INFO]: 🍬 Bonbon récupéré !
+
+[00:23:24 INFO]: 🍬 Bonbon récupéré !
+
+[00:23:53 INFO]: 🍬 Bonbon récupéré !
+
+[00:24:01 INFO]: 🍬 Bonbon récupéré !
+
+[00:24:03 INFO]: 🍬 Bonbon récupéré !
+
+[00:24:18 INFO]: 🍬 Bonbon récupéré !
+
+[00:24:25 INFO]: 🍬 Bonbon récupéré !
+
+[00:24:32 INFO]: 🍬 Bonbon récupéré !
+
+[00:24:48 INFO]: 🍬 Bonbon récupéré !
+
+[00:24:59 INFO]: 🍬 Bonbon récupéré !
+
+[00:24:59 INFO]: 🎉 Vous avez tout trouvé !
+
+[00:25:04 INFO]: 🏆 Tu as gagné ! Félicitations 🎃
+
+[00:25:04 INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:39296.
+[00:26:20 INFO]: Stopping server
+Loading libraries, please wait...
+[00:26:40 INFO]: Starting minecraft server version 1.12.1
+[00:26:40 INFO]: Loading properties
+[00:26:40 INFO]: Default game type: SURVIVAL
+[00:26:41 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[00:26:41 INFO]: Debug logging is disabled
+[00:26:41 INFO]: Server Ping Player Sample Count: 12
+
+[00:26:41 INFO]: Using 4 threads for Netty based IO
+[00:26:41 INFO]: Generating keypair
+[00:26:42 INFO]: Starting Minecraft server on *:25565
+[00:26:42 INFO]: Using epoll channel type
+[00:26:42 INFO]: Set PluginClassLoader as parallel capable
+[00:26:43 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:26:43 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[00:26:43 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:26:43 INFO]: Preparing level "world"
+[00:26:43 INFO]: -------- World Settings For [world] --------
+[00:26:43 INFO]: Mob Spawn Range: 4
+[00:26:43 INFO]: Cactus Growth Modifier: 100%
+[00:26:43 INFO]: Cane Growth Modifier: 100%
+[00:26:43 INFO]: Melon Growth Modifier: 100%
+[00:26:43 INFO]: Mushroom Growth Modifier: 100%
+[00:26:43 INFO]: Pumpkin Growth Modifier: 100%
+[00:26:43 INFO]: Sapling Growth Modifier: 100%
+[00:26:43 INFO]: Wheat Growth Modifier: 100%
+[00:26:43 INFO]: NetherWart Growth Modifier: 100%
+[00:26:43 INFO]: Vine Growth Modifier: 100%
+[00:26:43 INFO]: Cocoa Growth Modifier: 100%
+[00:26:43 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:26:43 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:26:43 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:26:43 INFO]: Random Lighting Updates: false
+[00:26:43 INFO]: Structure Info Saving: true
+[00:26:43 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:26:43 INFO]: Max TNT Explosions: 100
+[00:26:43 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:26:43 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:26:43 INFO]: Item Despawn Rate: 6000
+[00:26:43 INFO]: Item Merge Radius: 2.5
+[00:26:43 INFO]: Arrow Despawn Rate: 1200
+[00:26:43 INFO]: View Distance: 10
+[00:26:43 INFO]: Experience Merge Radius: 3.0
+[00:26:43 INFO]: Zombie Aggressive Towards Villager: true
+[00:26:43 INFO]: Nerfing mobs spawned from spawners: false
+[00:26:44 INFO]: -------- World Settings For [world_nether] --------
+[00:26:44 INFO]: Mob Spawn Range: 4
+[00:26:44 INFO]: Cactus Growth Modifier: 100%
+[00:26:44 INFO]: Cane Growth Modifier: 100%
+[00:26:44 INFO]: Melon Growth Modifier: 100%
+[00:26:44 INFO]: Mushroom Growth Modifier: 100%
+[00:26:44 INFO]: Pumpkin Growth Modifier: 100%
+[00:26:44 INFO]: Sapling Growth Modifier: 100%
+[00:26:44 INFO]: Wheat Growth Modifier: 100%
+[00:26:44 INFO]: NetherWart Growth Modifier: 100%
+[00:26:44 INFO]: Vine Growth Modifier: 100%
+[00:26:44 INFO]: Cocoa Growth Modifier: 100%
+[00:26:44 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:26:44 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:26:44 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:26:44 INFO]: Random Lighting Updates: false
+[00:26:44 INFO]: Structure Info Saving: true
+[00:26:44 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:26:44 INFO]: Max TNT Explosions: 100
+[00:26:44 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:26:44 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:26:44 INFO]: Item Despawn Rate: 6000
+[00:26:44 INFO]: Item Merge Radius: 2.5
+[00:26:44 INFO]: Arrow Despawn Rate: 1200
+[00:26:44 INFO]: View Distance: 10
+[00:26:44 INFO]: Experience Merge Radius: 3.0
+[00:26:44 INFO]: Zombie Aggressive Towards Villager: true
+[00:26:44 INFO]: Nerfing mobs spawned from spawners: false
+[00:26:44 INFO]: -------- World Settings For [world_the_end] --------
+[00:26:44 INFO]: Mob Spawn Range: 4
+[00:26:44 INFO]: Cactus Growth Modifier: 100%
+[00:26:44 INFO]: Cane Growth Modifier: 100%
+[00:26:44 INFO]: Melon Growth Modifier: 100%
+[00:26:44 INFO]: Mushroom Growth Modifier: 100%
+[00:26:44 INFO]: Pumpkin Growth Modifier: 100%
+[00:26:44 INFO]: Sapling Growth Modifier: 100%
+[00:26:44 INFO]: Wheat Growth Modifier: 100%
+[00:26:44 INFO]: NetherWart Growth Modifier: 100%
+[00:26:44 INFO]: Vine Growth Modifier: 100%
+[00:26:44 INFO]: Cocoa Growth Modifier: 100%
+[00:26:44 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:26:44 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:26:44 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:26:44 INFO]: Random Lighting Updates: false
+[00:26:44 INFO]: Structure Info Saving: true
+[00:26:44 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:26:44 INFO]: Max TNT Explosions: 100
+[00:26:45 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:26:45 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:26:45 INFO]: Item Despawn Rate: 6000
+[00:26:45 INFO]: Item Merge Radius: 2.5
+[00:26:45 INFO]: Arrow Despawn Rate: 1200
+[00:26:45 INFO]: View Distance: 10
+[00:26:45 INFO]: Experience Merge Radius: 3.0
+[00:26:45 INFO]: Zombie Aggressive Towards Villager: true
+[00:26:45 INFO]: Nerfing mobs spawned from spawners: false
+[00:26:45 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[00:26:46 INFO]: Preparing spawn area: 0%
+[00:26:47 INFO]: Preparing spawn area: 11%
+[00:26:48 INFO]: Preparing spawn area: 42%
+[00:26:49 INFO]: Preparing spawn area: 88%
+[00:26:49 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[00:26:50 INFO]: Preparing spawn area: 62%
+[00:26:51 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[00:26:51 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:26:52 INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:26:52 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[00:26:52 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[00:26:52 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[00:26:52 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[00:26:52 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[00:26:52 INFO]: [RaspberryJuice] Using RELATIVE locations
+[00:26:52 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[00:26:52 INFO]: [RaspberryJuice] ThreadListener Started
+[00:26:52 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:26:52 INFO]: Done (9,818s)! For help, type "help" or "?"
+[00:26:58 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[00:26:58 INFO]: Welcome Minepluie
+
+[00:26:59 INFO]: Minepluie[/127.0.0.1:55392] logged in with entity id 64 at ([world]184.8768649549198, 62.0, 271.9210136527745)
+[00:26:59 INFO]: [RaspberryJuice] Starting input thread
+[00:26:59 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:45038.
+[00:26:59 INFO]: [RaspberryJuice] Starting output thread!
+[00:27:00 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[00:27:10 INFO]: Minepluie issued server command: /kill @e
+[00:27:10 INFO]: Minepluie fell out of the world
+[00:27:10 INFO]: [Minepluie: Killed Minepluie]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Pig]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Sheep]
+[00:27:10 INFO]: [Minepluie: Killed Chicken]
+[00:27:10 INFO]: [Minepluie: Killed Chicken]
+[00:27:10 INFO]: [Minepluie: Killed Chicken]
+[00:27:10 INFO]: [Minepluie: Killed Chicken]
+[00:27:10 INFO]: [Minepluie: Killed Chicken]
+[00:27:10 INFO]: [Minepluie: Killed Chicken]
+[00:27:10 INFO]: [Minepluie: Killed Chicken]
+[00:27:10 INFO]: [Minepluie: Killed Chicken]
+[00:27:24 INFO]: 🍬 Bonbon récupéré !
+
+[00:27:43 INFO]: 🍬 Bonbon récupéré !
+
+[00:27:51 INFO]: 🍬 Bonbon récupéré !
+
+[00:28:35 INFO]: 🍬 Bonbon récupéré !
+
+[00:28:46 INFO]: 🍬 Bonbon récupéré !
+
+[00:28:51 INFO]: 🍬 Bonbon récupéré !
+
+[00:30:06 INFO]: 🍬 Bonbon récupéré !
+
+[00:31:33 INFO]: 🍬 Bonbon récupéré !
+
+[00:31:45 INFO]: 🍬 Bonbon récupéré !
+
+[00:32:00 INFO]: 🍬 Bonbon récupéré !
+
+[00:32:00 INFO]: 🎉 Vous avez tout trouvé !
+
+[00:32:09 INFO]: 🏆 Tu as gagné ! Félicitations 🎃
+
+[00:32:09 INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:45038.
+[00:32:56 INFO]: Minepluie issued server command: /clear
+[00:32:56 INFO]: [Minepluie: Cleared the inventory of Minepluie, removing 2 items]
+[00:33:04 INFO]: Minepluie issued server command: /gamemode a
+[00:33:04 INFO]: [Minepluie: Set own game mode to Adventure Mode]
+[00:33:07 INFO]: Stopping server
+Loading libraries, please wait...
+[00:33:24 INFO]: Starting minecraft server version 1.12.1
+[00:33:24 INFO]: Loading properties
+[00:33:24 INFO]: Default game type: SURVIVAL
+[00:33:24 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[00:33:25 INFO]: Debug logging is disabled
+[00:33:25 INFO]: Server Ping Player Sample Count: 12
+
+[00:33:25 INFO]: Using 4 threads for Netty based IO
+[00:33:25 INFO]: Generating keypair
+[00:33:25 INFO]: Starting Minecraft server on *:25565
+[00:33:25 INFO]: Using epoll channel type
+[00:33:26 INFO]: Set PluginClassLoader as parallel capable
+[00:33:26 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:33:26 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[00:33:26 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:33:26 INFO]: Preparing level "world"
+[00:33:26 INFO]: -------- World Settings For [world] --------
+[00:33:26 INFO]: Cactus Growth Modifier: 100%
+[00:33:26 INFO]: Cane Growth Modifier: 100%
+[00:33:26 INFO]: Melon Growth Modifier: 100%
+[00:33:26 INFO]: Mushroom Growth Modifier: 100%
+[00:33:26 INFO]: Pumpkin Growth Modifier: 100%
+[00:33:26 INFO]: Sapling Growth Modifier: 100%
+[00:33:26 INFO]: Wheat Growth Modifier: 100%
+[00:33:26 INFO]: NetherWart Growth Modifier: 100%
+[00:33:26 INFO]: Vine Growth Modifier: 100%
+[00:33:26 INFO]: Cocoa Growth Modifier: 100%
+[00:33:26 INFO]: Mob Spawn Range: 4
+[00:33:26 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:33:26 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:33:26 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:33:26 INFO]: Random Lighting Updates: false
+[00:33:26 INFO]: Structure Info Saving: true
+[00:33:26 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:33:26 INFO]: Max TNT Explosions: 100
+[00:33:26 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:33:26 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:33:26 INFO]: Item Despawn Rate: 6000
+[00:33:26 INFO]: Item Merge Radius: 2.5
+[00:33:26 INFO]: Arrow Despawn Rate: 1200
+[00:33:26 INFO]: View Distance: 10
+[00:33:26 INFO]: Experience Merge Radius: 3.0
+[00:33:26 INFO]: Zombie Aggressive Towards Villager: true
+[00:33:26 INFO]: Nerfing mobs spawned from spawners: false
+[00:33:27 INFO]: -------- World Settings For [world_nether] --------
+[00:33:27 INFO]: Cactus Growth Modifier: 100%
+[00:33:27 INFO]: Cane Growth Modifier: 100%
+[00:33:27 INFO]: Melon Growth Modifier: 100%
+[00:33:27 INFO]: Mushroom Growth Modifier: 100%
+[00:33:27 INFO]: Pumpkin Growth Modifier: 100%
+[00:33:27 INFO]: Sapling Growth Modifier: 100%
+[00:33:27 INFO]: Wheat Growth Modifier: 100%
+[00:33:27 INFO]: NetherWart Growth Modifier: 100%
+[00:33:27 INFO]: Vine Growth Modifier: 100%
+[00:33:27 INFO]: Cocoa Growth Modifier: 100%
+[00:33:27 INFO]: Mob Spawn Range: 4
+[00:33:27 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:33:27 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:33:27 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:33:27 INFO]: Random Lighting Updates: false
+[00:33:27 INFO]: Structure Info Saving: true
+[00:33:27 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:33:27 INFO]: Max TNT Explosions: 100
+[00:33:27 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:33:27 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:33:27 INFO]: Item Despawn Rate: 6000
+[00:33:27 INFO]: Item Merge Radius: 2.5
+[00:33:27 INFO]: Arrow Despawn Rate: 1200
+[00:33:27 INFO]: View Distance: 10
+[00:33:27 INFO]: Experience Merge Radius: 3.0
+[00:33:27 INFO]: Zombie Aggressive Towards Villager: true
+[00:33:28 INFO]: Nerfing mobs spawned from spawners: false
+[00:33:28 INFO]: -------- World Settings For [world_the_end] --------
+[00:33:28 INFO]: Cactus Growth Modifier: 100%
+[00:33:28 INFO]: Cane Growth Modifier: 100%
+[00:33:28 INFO]: Melon Growth Modifier: 100%
+[00:33:28 INFO]: Mushroom Growth Modifier: 100%
+[00:33:28 INFO]: Pumpkin Growth Modifier: 100%
+[00:33:28 INFO]: Sapling Growth Modifier: 100%
+[00:33:28 INFO]: Wheat Growth Modifier: 100%
+[00:33:28 INFO]: NetherWart Growth Modifier: 100%
+[00:33:28 INFO]: Vine Growth Modifier: 100%
+[00:33:28 INFO]: Cocoa Growth Modifier: 100%
+[00:33:28 INFO]: Mob Spawn Range: 4
+[00:33:28 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:33:28 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:33:28 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:33:28 INFO]: Random Lighting Updates: false
+[00:33:28 INFO]: Structure Info Saving: true
+[00:33:28 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:33:28 INFO]: Max TNT Explosions: 100
+[00:33:28 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:33:28 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:33:28 INFO]: Item Despawn Rate: 6000
+[00:33:28 INFO]: Item Merge Radius: 2.5
+[00:33:28 INFO]: Arrow Despawn Rate: 1200
+[00:33:28 INFO]: View Distance: 10
+[00:33:28 INFO]: Experience Merge Radius: 3.0
+[00:33:28 INFO]: Zombie Aggressive Towards Villager: true
+[00:33:28 INFO]: Nerfing mobs spawned from spawners: false
+[00:33:28 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[00:33:30 INFO]: Preparing spawn area: 0%
+[00:33:31 INFO]: Preparing spawn area: 6%
+[00:33:32 INFO]: Preparing spawn area: 29%
+[00:33:33 INFO]: Preparing spawn area: 57%
+[00:33:34 INFO]: Preparing spawn area: 93%
+[00:33:34 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[00:33:35 INFO]: Preparing spawn area: 56%
+[00:33:35 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[00:33:36 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:33:37 INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:33:37 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[00:33:37 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[00:33:37 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[00:33:37 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[00:33:37 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[00:33:37 INFO]: [RaspberryJuice] Using RELATIVE locations
+[00:33:37 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[00:33:37 INFO]: [RaspberryJuice] ThreadListener Started
+[00:33:37 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:33:37 INFO]: Done (11,386s)! For help, type "help" or "?"
+[00:33:57 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[00:33:57 INFO]: Welcome Minepluie
+
+[00:33:58 INFO]: Minepluie[/127.0.0.1:48414] logged in with entity id 115 at ([world]210.98236217114834, 62.0, 254.041650916022)
+[00:33:58 INFO]: [RaspberryJuice] Starting input thread
+[00:33:58 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:60798.
+[00:33:58 INFO]: [RaspberryJuice] Starting output thread!
+[00:33:58 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[00:34:14 INFO]: 🍬 Bonbon récupéré !
+
+[00:34:36 INFO]: 🍬 Bonbon récupéré !
+
+[00:34:55 INFO]: 🍬 Bonbon récupéré !
+
+[00:35:37 INFO]: 🍬 Bonbon récupéré !
+
+[00:35:57 INFO]: Minepluie tried to swim in lava
+[00:37:07 INFO]: Minepluie tried to swim in lava
+[00:38:24 INFO]: Minepluie tried to swim in lava
+[00:39:38 INFO]: Minepluie tried to swim in lava
+[00:39:49 INFO]: Minepluie issued server command: /gamemode c
+[00:39:49 INFO]: [Minepluie: Set own game mode to Creative Mode]
+[00:40:22 INFO]: Minepluie issued server command: /gamemode a
+[00:40:22 INFO]: [Minepluie: Set own game mode to Adventure Mode]
+[00:40:24 INFO]: 🍬 Bonbon récupéré !
+
+[00:40:27 INFO]: 🍬 Bonbon récupéré !
+
+[00:40:37 INFO]: 🍬 Bonbon récupéré !
+
+[00:41:02 INFO]: 🍬 Bonbon récupéré !
+
+[00:41:10 INFO]: 🍬 Bonbon récupéré !
+
+[00:42:04 INFO]: Minepluie tried to swim in lava
+[00:42:47 INFO]: Minepluie issued server command: /gamemode c
+[00:42:47 INFO]: [Minepluie: Set own game mode to Creative Mode]
+[00:43:05 INFO]: Minepluie issued server command: /gamemode a
+[00:43:05 INFO]: [Minepluie: Set own game mode to Adventure Mode]
+[00:43:11 INFO]: 🍬 Bonbon récupéré !
+
+[00:43:11 INFO]: 🎉 Vous avez tout trouvé !
+
+[00:43:14 INFO]: Minepluie issued server command: /gamemode a
+[00:43:14 INFO]: [Minepluie: Set own game mode to Adventure Mode]
+[00:43:19 INFO]: Minepluie issued server command: /gamemode c
+[00:43:19 INFO]: [Minepluie: Set own game mode to Creative Mode]
+[00:43:45 INFO]: 🏆 Tu as gagné ! Félicitations 🎃
+
+[00:43:46 INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:60798.
+[00:43:59 INFO]: Stopping server
+Loading libraries, please wait...
+[13:27:46 INFO]: Starting minecraft server version 1.12.1
+[13:27:46 INFO]: Loading properties
+[13:27:46 INFO]: Default game type: SURVIVAL
+[13:27:46 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[13:27:46 INFO]: Debug logging is disabled
+[13:27:46 INFO]: Server Ping Player Sample Count: 12
+
+[13:27:46 INFO]: Using 4 threads for Netty based IO
+[13:27:46 INFO]: Generating keypair
+[13:27:46 INFO]: Starting Minecraft server on *:25565
+[13:27:46 INFO]: Using epoll channel type
+[13:27:47 INFO]: Set PluginClassLoader as parallel capable
+[13:27:47 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[13:27:47 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[13:27:47 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:27:47 INFO]: Preparing level "world"
+[13:27:47 INFO]: -------- World Settings For [world] --------
+[13:27:47 INFO]: Mob Spawn Range: 4
+[13:27:47 INFO]: Cactus Growth Modifier: 100%
+[13:27:47 INFO]: Cane Growth Modifier: 100%
+[13:27:47 INFO]: Melon Growth Modifier: 100%
+[13:27:47 INFO]: Mushroom Growth Modifier: 100%
+[13:27:47 INFO]: Pumpkin Growth Modifier: 100%
+[13:27:47 INFO]: Sapling Growth Modifier: 100%
+[13:27:47 INFO]: Wheat Growth Modifier: 100%
+[13:27:47 INFO]: NetherWart Growth Modifier: 100%
+[13:27:47 INFO]: Vine Growth Modifier: 100%
+[13:27:47 INFO]: Cocoa Growth Modifier: 100%
+[13:27:47 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:27:47 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:27:47 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:27:47 INFO]: Random Lighting Updates: false
+[13:27:47 INFO]: Structure Info Saving: true
+[13:27:47 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:27:47 INFO]: Max TNT Explosions: 100
+[13:27:47 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:27:47 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:27:47 INFO]: Item Despawn Rate: 6000
+[13:27:47 INFO]: Item Merge Radius: 2.5
+[13:27:47 INFO]: Arrow Despawn Rate: 1200
+[13:27:47 INFO]: View Distance: 10
+[13:27:47 INFO]: Experience Merge Radius: 3.0
+[13:27:47 INFO]: Zombie Aggressive Towards Villager: true
+[13:27:47 INFO]: Nerfing mobs spawned from spawners: false
+[13:27:47 INFO]: -------- World Settings For [world_nether] --------
+[13:27:47 INFO]: Mob Spawn Range: 4
+[13:27:47 INFO]: Cactus Growth Modifier: 100%
+[13:27:47 INFO]: Cane Growth Modifier: 100%
+[13:27:47 INFO]: Melon Growth Modifier: 100%
+[13:27:47 INFO]: Mushroom Growth Modifier: 100%
+[13:27:47 INFO]: Pumpkin Growth Modifier: 100%
+[13:27:47 INFO]: Sapling Growth Modifier: 100%
+[13:27:47 INFO]: Wheat Growth Modifier: 100%
+[13:27:47 INFO]: NetherWart Growth Modifier: 100%
+[13:27:47 INFO]: Vine Growth Modifier: 100%
+[13:27:47 INFO]: Cocoa Growth Modifier: 100%
+[13:27:47 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:27:47 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:27:47 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:27:47 INFO]: Random Lighting Updates: false
+[13:27:47 INFO]: Structure Info Saving: true
+[13:27:47 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:27:47 INFO]: Max TNT Explosions: 100
+[13:27:47 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:27:47 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:27:47 INFO]: Item Despawn Rate: 6000
+[13:27:47 INFO]: Item Merge Radius: 2.5
+[13:27:47 INFO]: Arrow Despawn Rate: 1200
+[13:27:47 INFO]: View Distance: 10
+[13:27:47 INFO]: Experience Merge Radius: 3.0
+[13:27:47 INFO]: Zombie Aggressive Towards Villager: true
+[13:27:47 INFO]: Nerfing mobs spawned from spawners: false
+[13:27:48 INFO]: -------- World Settings For [world_the_end] --------
+[13:27:48 INFO]: Mob Spawn Range: 4
+[13:27:48 INFO]: Cactus Growth Modifier: 100%
+[13:27:48 INFO]: Cane Growth Modifier: 100%
+[13:27:48 INFO]: Melon Growth Modifier: 100%
+[13:27:48 INFO]: Mushroom Growth Modifier: 100%
+[13:27:48 INFO]: Pumpkin Growth Modifier: 100%
+[13:27:48 INFO]: Sapling Growth Modifier: 100%
+[13:27:48 INFO]: Wheat Growth Modifier: 100%
+[13:27:48 INFO]: NetherWart Growth Modifier: 100%
+[13:27:48 INFO]: Vine Growth Modifier: 100%
+[13:27:48 INFO]: Cocoa Growth Modifier: 100%
+[13:27:48 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:27:48 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:27:48 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:27:48 INFO]: Random Lighting Updates: false
+[13:27:48 INFO]: Structure Info Saving: true
+[13:27:48 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:27:48 INFO]: Max TNT Explosions: 100
+[13:27:48 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:27:48 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:27:48 INFO]: Item Despawn Rate: 6000
+[13:27:48 INFO]: Item Merge Radius: 2.5
+[13:27:48 INFO]: Arrow Despawn Rate: 1200
+[13:27:48 INFO]: View Distance: 10
+[13:27:48 INFO]: Experience Merge Radius: 3.0
+[13:27:48 INFO]: Zombie Aggressive Towards Villager: true
+[13:27:48 INFO]: Nerfing mobs spawned from spawners: false
+[13:27:48 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[13:27:49 INFO]: Preparing spawn area: 0%
+[13:27:50 INFO]: Preparing spawn area: 24%
+[13:27:51 INFO]: Preparing spawn area: 77%
+[13:27:51 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[13:27:52 INFO]: Preparing spawn area: 65%
+[13:27:53 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[13:27:53 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[13:27:53 INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:27:54 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[13:27:54 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[13:27:54 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[13:27:54 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[13:27:54 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[13:27:54 INFO]: [RaspberryJuice] Using RELATIVE locations
+[13:27:54 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[13:27:54 INFO]: [RaspberryJuice] ThreadListener Started
+[13:27:54 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:27:54 INFO]: Done (6,971s)! For help, type "help" or "?"
+[13:28:15 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[13:28:15 INFO]: Welcome Minepluie
+
+[13:28:15 INFO]: Minepluie[/127.0.0.1:51504] logged in with entity id 95 at ([world]184.89072186062702, 62.0, 272.10449145876083)
+[13:28:15 INFO]: [RaspberryJuice] Starting input thread
+[13:28:15 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:38340.
+[13:28:15 INFO]: [RaspberryJuice] Starting output thread!
+[13:28:15 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[13:28:51 INFO]: Minepluie issued server command: /clear
+[13:28:51 INFO]: [Minepluie: Cleared the inventory of Minepluie, removing 1 items]
+[13:28:55 INFO]: Minepluie issued server command: /gamemode a
+[13:28:55 INFO]: [Minepluie: Set own game mode to Adventure Mode]
+[13:29:04 INFO]: 🍬 Bonbon récupéré !
+
+[13:29:20 INFO]: 🍬 Bonbon récupéré !
+
+[13:29:40 INFO]: 🍬 Bonbon récupéré !
+
+[13:30:09 INFO]: Minepluie tried to swim in lava
+[13:30:51 INFO]: 🍬 Bonbon récupéré !
+
+[13:30:54 INFO]: 🍬 Bonbon récupéré !
+
+[13:31:26 INFO]: Minepluie tried to swim in lava
+[13:32:31 INFO]: Minepluie tried to swim in lava
+[13:33:25 INFO]: Minepluie tried to swim in lava
+[13:34:25 INFO]: Minepluie tried to swim in lava
+[13:35:20 INFO]: Minepluie tried to swim in lava
+[13:36:36 INFO]: Minepluie tried to swim in lava
+[13:38:08 INFO]: Minepluie tried to swim in lava
+[13:39:15 INFO]: 🍬 Bonbon récupéré !
+
+[13:40:15 INFO]: 🍬 Bonbon récupéré !
+
+[13:40:28 INFO]: 🍬 Bonbon récupéré !
+
+[13:40:37 INFO]: 🍬 Bonbon récupéré !
+
+[13:41:04 INFO]: 🍬 Bonbon récupéré !
+
+[13:41:04 INFO]: 🎉 Vous avez tout trouvé !
+
+[13:41:09 INFO]: 🏆 Tu as gagné ! Félicitations 🎃
+
+[13:41:09 INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:38340.
+[13:41:27 INFO]: Stopping server
+Loading libraries, please wait...
+[13:43:09 INFO]: Starting minecraft server version 1.12.1
+[13:43:09 INFO]: Loading properties
+[13:43:09 INFO]: Default game type: SURVIVAL
+[13:43:09 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[13:43:09 INFO]: Debug logging is disabled
+[13:43:09 INFO]: Server Ping Player Sample Count: 12
+
+[13:43:09 INFO]: Using 4 threads for Netty based IO
+[13:43:09 INFO]: Generating keypair
+[13:43:10 INFO]: Starting Minecraft server on *:25565
+[13:43:10 INFO]: Using epoll channel type
+[13:43:10 INFO]: Set PluginClassLoader as parallel capable
+[13:43:10 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[13:43:10 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[13:43:10 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:43:10 INFO]: Preparing level "world"
+[13:43:10 INFO]: -------- World Settings For [world] --------
+[13:43:10 INFO]: Cactus Growth Modifier: 100%
+[13:43:10 INFO]: Cane Growth Modifier: 100%
+[13:43:10 INFO]: Melon Growth Modifier: 100%
+[13:43:10 INFO]: Mushroom Growth Modifier: 100%
+[13:43:10 INFO]: Pumpkin Growth Modifier: 100%
+[13:43:10 INFO]: Sapling Growth Modifier: 100%
+[13:43:10 INFO]: Wheat Growth Modifier: 100%
+[13:43:10 INFO]: NetherWart Growth Modifier: 100%
+[13:43:10 INFO]: Vine Growth Modifier: 100%
+[13:43:10 INFO]: Cocoa Growth Modifier: 100%
+[13:43:10 INFO]: Mob Spawn Range: 4
+[13:43:10 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:43:10 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:43:10 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:43:10 INFO]: Random Lighting Updates: false
+[13:43:10 INFO]: Structure Info Saving: true
+[13:43:10 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:43:10 INFO]: Max TNT Explosions: 100
+[13:43:10 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:43:10 INFO]: View Distance: 10
+[13:43:10 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:43:10 INFO]: Item Despawn Rate: 6000
+[13:43:10 INFO]: Item Merge Radius: 2.5
+[13:43:10 INFO]: Arrow Despawn Rate: 1200
+[13:43:10 INFO]: Experience Merge Radius: 3.0
+[13:43:10 INFO]: Zombie Aggressive Towards Villager: true
+[13:43:10 INFO]: Nerfing mobs spawned from spawners: false
+[13:43:11 INFO]: -------- World Settings For [world_nether] --------
+[13:43:11 INFO]: Cactus Growth Modifier: 100%
+[13:43:11 INFO]: Cane Growth Modifier: 100%
+[13:43:11 INFO]: Melon Growth Modifier: 100%
+[13:43:11 INFO]: Mushroom Growth Modifier: 100%
+[13:43:11 INFO]: Pumpkin Growth Modifier: 100%
+[13:43:11 INFO]: Sapling Growth Modifier: 100%
+[13:43:11 INFO]: Wheat Growth Modifier: 100%
+[13:43:11 INFO]: NetherWart Growth Modifier: 100%
+[13:43:11 INFO]: Vine Growth Modifier: 100%
+[13:43:11 INFO]: Cocoa Growth Modifier: 100%
+[13:43:11 INFO]: Mob Spawn Range: 4
+[13:43:11 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:43:11 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:43:11 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:43:11 INFO]: Random Lighting Updates: false
+[13:43:11 INFO]: Structure Info Saving: true
+[13:43:11 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:43:12 INFO]: Max TNT Explosions: 100
+[13:43:12 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:43:12 INFO]: View Distance: 10
+[13:43:12 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:43:12 INFO]: Item Despawn Rate: 6000
+[13:43:12 INFO]: Item Merge Radius: 2.5
+[13:43:12 INFO]: Arrow Despawn Rate: 1200
+[13:43:12 INFO]: Experience Merge Radius: 3.0
+[13:43:12 INFO]: Zombie Aggressive Towards Villager: true
+[13:43:12 INFO]: Nerfing mobs spawned from spawners: false
+[13:43:12 INFO]: -------- World Settings For [world_the_end] --------
+[13:43:12 INFO]: Cactus Growth Modifier: 100%
+[13:43:12 INFO]: Cane Growth Modifier: 100%
+[13:43:12 INFO]: Melon Growth Modifier: 100%
+[13:43:12 INFO]: Mushroom Growth Modifier: 100%
+[13:43:12 INFO]: Pumpkin Growth Modifier: 100%
+[13:43:12 INFO]: Sapling Growth Modifier: 100%
+[13:43:12 INFO]: Wheat Growth Modifier: 100%
+[13:43:12 INFO]: NetherWart Growth Modifier: 100%
+[13:43:12 INFO]: Vine Growth Modifier: 100%
+[13:43:12 INFO]: Cocoa Growth Modifier: 100%
+[13:43:12 INFO]: Mob Spawn Range: 4
+[13:43:12 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:43:12 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:43:12 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:43:12 INFO]: Random Lighting Updates: false
+[13:43:12 INFO]: Structure Info Saving: true
+[13:43:12 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:43:12 INFO]: Max TNT Explosions: 100
+[13:43:12 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:43:12 INFO]: View Distance: 10
+[13:43:12 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:43:12 INFO]: Item Despawn Rate: 6000
+[13:43:12 INFO]: Item Merge Radius: 2.5
+[13:43:12 INFO]: Arrow Despawn Rate: 1200
+[13:43:12 INFO]: Experience Merge Radius: 3.0
+[13:43:12 INFO]: Zombie Aggressive Towards Villager: true
+[13:43:12 INFO]: Nerfing mobs spawned from spawners: false
+[13:43:12 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[13:43:13 INFO]: Preparing spawn area: 0%
+[13:43:14 INFO]: Preparing spawn area: 8%
+[13:43:15 INFO]: Preparing spawn area: 48%
+[13:43:16 INFO]: Preparing spawn area: 91%
+[13:43:16 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[13:43:17 INFO]: Preparing spawn area: 48%
+[13:43:18 INFO]: Preparing spawn area: 98%
+[13:43:18 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[13:43:19 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[13:43:19 INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:43:19 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[13:43:19 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[13:43:19 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[13:43:19 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[13:43:19 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[13:43:19 INFO]: [RaspberryJuice] Using RELATIVE locations
+[13:43:19 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[13:43:19 INFO]: [RaspberryJuice] ThreadListener Started
+[13:43:19 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:43:20 INFO]: Done (9,231s)! For help, type "help" or "?"
+[13:44:08 INFO]: [RaspberryJuice] Starting input thread
+[13:44:08 INFO]: [RaspberryJuice] Starting output thread!
+[13:44:08 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:44980.
+[13:44:17 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[13:44:17 INFO]: Welcome Minepluie
+
+[13:44:17 INFO]: Minepluie[/127.0.0.1:56190] logged in with entity id 95 at ([world]183.30000001192093, 62.0, 271.30000001192093)
+[13:44:18 INFO]: [RaspberryJuice] Starting input thread
+[13:44:18 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51098.
+[13:44:18 INFO]: [RaspberryJuice] Starting output thread!
+[13:44:18 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[13:44:19 INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:44980.
+[13:44:22 INFO]: [RaspberryJuice] Starting input thread
+[13:44:22 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51108.
+[13:44:22 INFO]: [RaspberryJuice] Starting output thread!
+[13:44:33 INFO]: Minepluie issued server command: /gamemode c
+[13:44:33 INFO]: [Minepluie: Set own game mode to Creative Mode]
+[13:44:48 INFO]: Minepluie issued server command: /kill @e
+[13:44:48 INFO]: Minepluie fell out of the world
+[13:44:48 INFO]: [Minepluie: Killed Minepluie]
+[13:44:48 INFO]: [Minepluie: Killed item.item.muttonRaw]
+[13:44:48 INFO]: [Minepluie: Killed item.tile.cloth.white]
+[13:44:48 INFO]: [Minepluie: Killed item.tile.cloth.silver]
+[13:44:55 INFO]: <Minepluie> t
+
+[13:44:55 INFO]: (0, 0, 0)
+
+[13:45:10 INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51108.
+[13:45:17 INFO]: Stopping server
+Loading libraries, please wait...
+[13:45:29 INFO]: Starting minecraft server version 1.12.1
+[13:45:29 INFO]: Loading properties
+[13:45:29 INFO]: Default game type: SURVIVAL
+[13:45:29 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[13:45:29 INFO]: Debug logging is disabled
+[13:45:29 INFO]: Server Ping Player Sample Count: 12
+
+[13:45:29 INFO]: Using 4 threads for Netty based IO
+[13:45:29 INFO]: Generating keypair
+[13:45:30 INFO]: Starting Minecraft server on *:25565
+[13:45:30 INFO]: Using epoll channel type
+[13:45:30 INFO]: Set PluginClassLoader as parallel capable
+[13:45:30 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[13:45:30 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[13:45:30 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:45:30 INFO]: Preparing level "world"
+[13:45:30 INFO]: -------- World Settings For [world] --------
+[13:45:30 INFO]: Cactus Growth Modifier: 100%
+[13:45:30 INFO]: Cane Growth Modifier: 100%
+[13:45:30 INFO]: Melon Growth Modifier: 100%
+[13:45:30 INFO]: Mushroom Growth Modifier: 100%
+[13:45:30 INFO]: Pumpkin Growth Modifier: 100%
+[13:45:30 INFO]: Sapling Growth Modifier: 100%
+[13:45:30 INFO]: Wheat Growth Modifier: 100%
+[13:45:30 INFO]: NetherWart Growth Modifier: 100%
+[13:45:30 INFO]: Vine Growth Modifier: 100%
+[13:45:30 INFO]: Cocoa Growth Modifier: 100%
+[13:45:30 INFO]: Mob Spawn Range: 4
+[13:45:30 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:45:30 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:45:30 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:45:30 INFO]: Random Lighting Updates: false
+[13:45:30 INFO]: Structure Info Saving: true
+[13:45:30 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:45:30 INFO]: Max TNT Explosions: 100
+[13:45:30 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:45:30 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:45:30 INFO]: Item Despawn Rate: 6000
+[13:45:30 INFO]: Item Merge Radius: 2.5
+[13:45:30 INFO]: Arrow Despawn Rate: 1200
+[13:45:30 INFO]: View Distance: 10
+[13:45:30 INFO]: Experience Merge Radius: 3.0
+[13:45:30 INFO]: Zombie Aggressive Towards Villager: true
+[13:45:30 INFO]: Nerfing mobs spawned from spawners: false
+[13:45:31 INFO]: -------- World Settings For [world_nether] --------
+[13:45:31 INFO]: Cactus Growth Modifier: 100%
+[13:45:31 INFO]: Cane Growth Modifier: 100%
+[13:45:31 INFO]: Melon Growth Modifier: 100%
+[13:45:31 INFO]: Mushroom Growth Modifier: 100%
+[13:45:31 INFO]: Pumpkin Growth Modifier: 100%
+[13:45:31 INFO]: Sapling Growth Modifier: 100%
+[13:45:31 INFO]: Wheat Growth Modifier: 100%
+[13:45:31 INFO]: NetherWart Growth Modifier: 100%
+[13:45:31 INFO]: Vine Growth Modifier: 100%
+[13:45:31 INFO]: Cocoa Growth Modifier: 100%
+[13:45:31 INFO]: Mob Spawn Range: 4
+[13:45:31 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:45:31 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:45:31 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:45:31 INFO]: Random Lighting Updates: false
+[13:45:31 INFO]: Structure Info Saving: true
+[13:45:31 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:45:31 INFO]: Max TNT Explosions: 100
+[13:45:31 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:45:31 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:45:31 INFO]: Item Despawn Rate: 6000
+[13:45:31 INFO]: Item Merge Radius: 2.5
+[13:45:31 INFO]: Arrow Despawn Rate: 1200
+[13:45:31 INFO]: View Distance: 10
+[13:45:31 INFO]: Experience Merge Radius: 3.0
+[13:45:31 INFO]: Zombie Aggressive Towards Villager: true
+[13:45:31 INFO]: Nerfing mobs spawned from spawners: false
+[13:45:31 INFO]: -------- World Settings For [world_the_end] --------
+[13:45:31 INFO]: Cactus Growth Modifier: 100%
+[13:45:31 INFO]: Cane Growth Modifier: 100%
+[13:45:31 INFO]: Melon Growth Modifier: 100%
+[13:45:31 INFO]: Mushroom Growth Modifier: 100%
+[13:45:31 INFO]: Pumpkin Growth Modifier: 100%
+[13:45:31 INFO]: Sapling Growth Modifier: 100%
+[13:45:31 INFO]: Wheat Growth Modifier: 100%
+[13:45:31 INFO]: NetherWart Growth Modifier: 100%
+[13:45:31 INFO]: Vine Growth Modifier: 100%
+[13:45:31 INFO]: Cocoa Growth Modifier: 100%
+[13:45:31 INFO]: Mob Spawn Range: 4
+[13:45:31 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:45:31 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:45:31 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:45:31 INFO]: Random Lighting Updates: false
+[13:45:31 INFO]: Structure Info Saving: true
+[13:45:31 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:45:31 INFO]: Max TNT Explosions: 100
+[13:45:31 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:45:31 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:45:31 INFO]: Item Despawn Rate: 6000
+[13:45:31 INFO]: Item Merge Radius: 2.5
+[13:45:31 INFO]: Arrow Despawn Rate: 1200
+[13:45:31 INFO]: View Distance: 10
+[13:45:31 INFO]: Experience Merge Radius: 3.0
+[13:45:31 INFO]: Zombie Aggressive Towards Villager: true
+[13:45:31 INFO]: Nerfing mobs spawned from spawners: false
+[13:45:31 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[13:45:32 INFO]: Preparing spawn area: 1%
+[13:45:33 INFO]: Preparing spawn area: 29%
+[13:45:34 INFO]: Preparing spawn area: 89%
+[13:45:34 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[13:45:35 INFO]: Preparing spawn area: 85%
+[13:45:36 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[13:45:36 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[13:45:36 INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:45:36 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[13:45:36 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[13:45:36 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[13:45:36 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[13:45:36 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[13:45:36 INFO]: [RaspberryJuice] Using RELATIVE locations
+[13:45:36 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[13:45:36 INFO]: [RaspberryJuice] ThreadListener Started
+[13:45:36 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:45:36 INFO]: Done (6,408s)! For help, type "help" or "?"
+[13:45:42 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[13:45:42 INFO]: Welcome Minepluie
+
+[13:45:42 INFO]: Minepluie[/127.0.0.1:58834] logged in with entity id 93 at ([world]215.5, 62.0, 255.5)
+[13:45:42 INFO]: [RaspberryJuice] Starting input thread
+[13:45:42 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53388.
+[13:45:42 INFO]: [RaspberryJuice] Starting output thread!
+[13:45:42 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[13:45:54 INFO]: Minepluie issued server command: /gamemode a
+[13:45:54 INFO]: [Minepluie: Set own game mode to Adventure Mode]
+[13:46:01 INFO]: 🍬 Bonbon récupéré !
+
+[13:46:12 INFO]: 🍬 Bonbon récupéré !
+
+[13:46:27 INFO]: 🍬 Bonbon récupéré !
+
+[13:46:31 INFO]: 🍬 Bonbon récupéré !
+
+[13:46:38 INFO]: 🍬 Bonbon récupéré !
+
+[13:46:45 INFO]: 🍬 Bonbon récupéré !
+
+[13:46:53 INFO]: 🍬 Bonbon récupéré !
+
+[13:47:12 INFO]: 🍬 Bonbon récupéré !
+
+[13:48:09 INFO]: 🍬 Bonbon récupéré !
+
+[13:48:27 INFO]: 🍬 Bonbon récupéré !
+
+[13:48:27 INFO]: 🎉 Vous avez tout trouvé !
+
+[13:48:33 INFO]: 🏆 Tu as gagné ! Félicitations 🎃
+
+[13:48:33 INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53388.
+[13:48:39 INFO]: Stopping server
+Loading libraries, please wait...
+[13:48:55 INFO]: Starting minecraft server version 1.12.1
+[13:48:55 INFO]: Loading properties
+[13:48:55 INFO]: Default game type: SURVIVAL
+[13:48:55 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[13:48:55 INFO]: Debug logging is disabled
+[13:48:55 INFO]: Server Ping Player Sample Count: 12
+
+[13:48:55 INFO]: Using 4 threads for Netty based IO
+[13:48:55 INFO]: Generating keypair
+[13:48:56 INFO]: Starting Minecraft server on *:25565
+[13:48:56 INFO]: Using epoll channel type
+[13:48:56 INFO]: Set PluginClassLoader as parallel capable
+[13:48:56 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[13:48:56 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[13:48:56 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:48:56 INFO]: Preparing level "world"
+[13:48:56 INFO]: -------- World Settings For [world] --------
+[13:48:56 INFO]: Cactus Growth Modifier: 100%
+[13:48:56 INFO]: Cane Growth Modifier: 100%
+[13:48:56 INFO]: Melon Growth Modifier: 100%
+[13:48:56 INFO]: Mushroom Growth Modifier: 100%
+[13:48:56 INFO]: Pumpkin Growth Modifier: 100%
+[13:48:56 INFO]: Sapling Growth Modifier: 100%
+[13:48:56 INFO]: Wheat Growth Modifier: 100%
+[13:48:56 INFO]: NetherWart Growth Modifier: 100%
+[13:48:56 INFO]: Vine Growth Modifier: 100%
+[13:48:56 INFO]: Cocoa Growth Modifier: 100%
+[13:48:56 INFO]: Mob Spawn Range: 4
+[13:48:56 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:48:56 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:48:56 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:48:56 INFO]: Random Lighting Updates: false
+[13:48:56 INFO]: Structure Info Saving: true
+[13:48:56 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:48:56 INFO]: Max TNT Explosions: 100
+[13:48:56 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:48:56 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:48:56 INFO]: Item Despawn Rate: 6000
+[13:48:56 INFO]: Item Merge Radius: 2.5
+[13:48:56 INFO]: Arrow Despawn Rate: 1200
+[13:48:56 INFO]: View Distance: 10
+[13:48:56 INFO]: Experience Merge Radius: 3.0
+[13:48:56 INFO]: Zombie Aggressive Towards Villager: true
+[13:48:56 INFO]: Nerfing mobs spawned from spawners: false
+[13:48:57 INFO]: -------- World Settings For [world_nether] --------
+[13:48:57 INFO]: Cactus Growth Modifier: 100%
+[13:48:57 INFO]: Cane Growth Modifier: 100%
+[13:48:57 INFO]: Melon Growth Modifier: 100%
+[13:48:57 INFO]: Mushroom Growth Modifier: 100%
+[13:48:57 INFO]: Pumpkin Growth Modifier: 100%
+[13:48:57 INFO]: Sapling Growth Modifier: 100%
+[13:48:57 INFO]: Wheat Growth Modifier: 100%
+[13:48:57 INFO]: NetherWart Growth Modifier: 100%
+[13:48:57 INFO]: Vine Growth Modifier: 100%
+[13:48:57 INFO]: Cocoa Growth Modifier: 100%
+[13:48:57 INFO]: Mob Spawn Range: 4
+[13:48:57 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:48:57 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:48:57 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:48:57 INFO]: Random Lighting Updates: false
+[13:48:57 INFO]: Structure Info Saving: true
+[13:48:57 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:48:57 INFO]: Max TNT Explosions: 100
+[13:48:57 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:48:57 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:48:57 INFO]: Item Despawn Rate: 6000
+[13:48:57 INFO]: Item Merge Radius: 2.5
+[13:48:57 INFO]: Arrow Despawn Rate: 1200
+[13:48:57 INFO]: View Distance: 10
+[13:48:57 INFO]: Experience Merge Radius: 3.0
+[13:48:57 INFO]: Zombie Aggressive Towards Villager: true
+[13:48:57 INFO]: Nerfing mobs spawned from spawners: false
+[13:48:57 INFO]: -------- World Settings For [world_the_end] --------
+[13:48:57 INFO]: Cactus Growth Modifier: 100%
+[13:48:57 INFO]: Cane Growth Modifier: 100%
+[13:48:57 INFO]: Melon Growth Modifier: 100%
+[13:48:57 INFO]: Mushroom Growth Modifier: 100%
+[13:48:57 INFO]: Pumpkin Growth Modifier: 100%
+[13:48:57 INFO]: Sapling Growth Modifier: 100%
+[13:48:57 INFO]: Wheat Growth Modifier: 100%
+[13:48:57 INFO]: NetherWart Growth Modifier: 100%
+[13:48:57 INFO]: Vine Growth Modifier: 100%
+[13:48:57 INFO]: Cocoa Growth Modifier: 100%
+[13:48:57 INFO]: Mob Spawn Range: 4
+[13:48:57 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:48:57 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:48:57 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:48:57 INFO]: Random Lighting Updates: false
+[13:48:57 INFO]: Structure Info Saving: true
+[13:48:57 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:48:57 INFO]: Max TNT Explosions: 100
+[13:48:57 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:48:57 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:48:57 INFO]: Item Despawn Rate: 6000
+[13:48:57 INFO]: Item Merge Radius: 2.5
+[13:48:57 INFO]: Arrow Despawn Rate: 1200
+[13:48:57 INFO]: View Distance: 10
+[13:48:57 INFO]: Experience Merge Radius: 3.0
+[13:48:57 INFO]: Zombie Aggressive Towards Villager: true
+[13:48:57 INFO]: Nerfing mobs spawned from spawners: false
+[13:48:57 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[13:48:58 INFO]: Preparing spawn area: 1%
+[13:48:59 INFO]: Preparing spawn area: 38%
+[13:49:00 INFO]: Preparing spawn area: 87%
+[13:49:01 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[13:49:02 INFO]: Preparing spawn area: 80%
+[13:49:02 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[13:49:02 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[13:49:03 INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:49:03 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[13:49:03 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[13:49:03 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[13:49:03 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[13:49:03 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[13:49:03 INFO]: [RaspberryJuice] Using RELATIVE locations
+[13:49:03 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[13:49:03 INFO]: [RaspberryJuice] ThreadListener Started
+[13:49:03 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:49:03 INFO]: Done (6,566s)! For help, type "help" or "?"
+[13:49:24 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[13:49:24 INFO]: Welcome Minepluie
+
+[13:49:24 INFO]: Minepluie[/127.0.0.1:43442] logged in with entity id 91 at ([world]184.8040191725857, 62.0, 271.30000001192093)
+[13:49:24 INFO]: [RaspberryJuice] Starting input thread
+[13:49:24 INFO]: [RaspberryJuice] Starting output thread!
+[13:49:24 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50544.
+[13:49:24 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[13:49:36 INFO]: 🍬 Bonbon récupéré !
+
+[13:49:49 INFO]: 🍬 Bonbon récupéré !
+
+[13:50:14 INFO]: 🍬 Bonbon récupéré !
+
+[13:50:16 INFO]: 🍬 Bonbon récupéré !
+
+[13:50:33 INFO]: 🍬 Bonbon récupéré !
+
+[13:50:39 INFO]: 🍬 Bonbon récupéré !
+
+[13:51:03 INFO]: Minepluie tried to swim in lava
+[13:52:38 INFO]: 🍬 Bonbon récupéré !
+
+[13:52:40 INFO]: 🍬 Bonbon récupéré !
+
+[13:52:52 INFO]: 🍬 Bonbon récupéré !
+
+[13:53:12 INFO]: 🍬 Bonbon récupéré !
+
+[13:53:12 INFO]: 🎉 Vous avez tout trouvé !
+
+[13:53:20 INFO]: 🏆 Tu as gagné ! Félicitations 🎃
+
+[13:53:20 INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50544.
+[13:54:15 INFO]: Minepluie issued server command: /gamemode c
+[13:54:15 INFO]: [Minepluie: Set own game mode to Creative Mode]
+[13:56:09 INFO]: Minepluie lost connection: Disconnected
+[13:56:09 INFO]: Minepluie left the game
+[13:56:54 INFO]: Stopping server
+Loading libraries, please wait...
+[14:07:19 INFO]: Starting minecraft server version 1.12.1
+[14:07:19 INFO]: Loading properties
+[14:07:19 INFO]: Default game type: SURVIVAL
+[14:07:19 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[14:07:19 INFO]: Debug logging is disabled
+[14:07:19 INFO]: Server Ping Player Sample Count: 12
+
+[14:07:19 INFO]: Using 4 threads for Netty based IO
+[14:07:19 INFO]: Generating keypair
+[14:07:20 INFO]: Starting Minecraft server on *:25565
+[14:07:20 INFO]: Using epoll channel type
+[14:07:21 INFO]: Set PluginClassLoader as parallel capable
+[14:07:21 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:07:21 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[14:07:21 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:07:21 INFO]: Preparing level "world"
+[14:07:21 INFO]: -------- World Settings For [world] --------
+[14:07:21 INFO]: Cactus Growth Modifier: 100%
+[14:07:21 INFO]: Cane Growth Modifier: 100%
+[14:07:21 INFO]: Melon Growth Modifier: 100%
+[14:07:21 INFO]: Mushroom Growth Modifier: 100%
+[14:07:21 INFO]: Pumpkin Growth Modifier: 100%
+[14:07:21 INFO]: Sapling Growth Modifier: 100%
+[14:07:21 INFO]: Wheat Growth Modifier: 100%
+[14:07:21 INFO]: NetherWart Growth Modifier: 100%
+[14:07:21 INFO]: Vine Growth Modifier: 100%
+[14:07:21 INFO]: Cocoa Growth Modifier: 100%
+[14:07:21 INFO]: Mob Spawn Range: 4
+[14:07:21 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:07:21 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:07:21 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:07:21 INFO]: Random Lighting Updates: false
+[14:07:21 INFO]: Structure Info Saving: true
+[14:07:21 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:07:21 INFO]: Max TNT Explosions: 100
+[14:07:21 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:07:21 INFO]: View Distance: 10
+[14:07:21 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:07:21 INFO]: Item Despawn Rate: 6000
+[14:07:21 INFO]: Item Merge Radius: 2.5
+[14:07:21 INFO]: Arrow Despawn Rate: 1200
+[14:07:21 INFO]: Experience Merge Radius: 3.0
+[14:07:21 INFO]: Zombie Aggressive Towards Villager: true
+[14:07:21 INFO]: Nerfing mobs spawned from spawners: false
+[14:07:22 INFO]: -------- World Settings For [world_nether] --------
+[14:07:22 INFO]: Cactus Growth Modifier: 100%
+[14:07:22 INFO]: Cane Growth Modifier: 100%
+[14:07:22 INFO]: Melon Growth Modifier: 100%
+[14:07:22 INFO]: Mushroom Growth Modifier: 100%
+[14:07:22 INFO]: Pumpkin Growth Modifier: 100%
+[14:07:22 INFO]: Sapling Growth Modifier: 100%
+[14:07:22 INFO]: Wheat Growth Modifier: 100%
+[14:07:22 INFO]: NetherWart Growth Modifier: 100%
+[14:07:22 INFO]: Vine Growth Modifier: 100%
+[14:07:22 INFO]: Cocoa Growth Modifier: 100%
+[14:07:22 INFO]: Mob Spawn Range: 4
+[14:07:22 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:07:22 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:07:22 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:07:22 INFO]: Random Lighting Updates: false
+[14:07:22 INFO]: Structure Info Saving: true
+[14:07:22 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:07:22 INFO]: Max TNT Explosions: 100
+[14:07:22 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:07:22 INFO]: View Distance: 10
+[14:07:22 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:07:22 INFO]: Item Despawn Rate: 6000
+[14:07:22 INFO]: Item Merge Radius: 2.5
+[14:07:22 INFO]: Arrow Despawn Rate: 1200
+[14:07:22 INFO]: Experience Merge Radius: 3.0
+[14:07:22 INFO]: Zombie Aggressive Towards Villager: true
+[14:07:22 INFO]: Nerfing mobs spawned from spawners: false
+[14:07:22 INFO]: -------- World Settings For [world_the_end] --------
+[14:07:22 INFO]: Cactus Growth Modifier: 100%
+[14:07:22 INFO]: Cane Growth Modifier: 100%
+[14:07:22 INFO]: Melon Growth Modifier: 100%
+[14:07:22 INFO]: Mushroom Growth Modifier: 100%
+[14:07:22 INFO]: Pumpkin Growth Modifier: 100%
+[14:07:22 INFO]: Sapling Growth Modifier: 100%
+[14:07:22 INFO]: Wheat Growth Modifier: 100%
+[14:07:22 INFO]: NetherWart Growth Modifier: 100%
+[14:07:22 INFO]: Vine Growth Modifier: 100%
+[14:07:22 INFO]: Cocoa Growth Modifier: 100%
+[14:07:22 INFO]: Mob Spawn Range: 4
+[14:07:22 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:07:22 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:07:22 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:07:22 INFO]: Random Lighting Updates: false
+[14:07:22 INFO]: Structure Info Saving: true
+[14:07:22 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:07:22 INFO]: Max TNT Explosions: 100
+[14:07:22 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:07:22 INFO]: View Distance: 10
+[14:07:22 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:07:22 INFO]: Item Despawn Rate: 6000
+[14:07:22 INFO]: Item Merge Radius: 2.5
+[14:07:23 INFO]: Arrow Despawn Rate: 1200
+[14:07:23 INFO]: Experience Merge Radius: 3.0
+[14:07:23 INFO]: Zombie Aggressive Towards Villager: true
+[14:07:23 INFO]: Nerfing mobs spawned from spawners: false
+[14:07:23 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[14:07:24 INFO]: Preparing spawn area: 0%
+[14:07:25 INFO]: Preparing spawn area: 7%
+[14:07:26 INFO]: Preparing spawn area: 36%
+[14:07:27 INFO]: Preparing spawn area: 66%
+[14:07:28 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[14:07:29 INFO]: Preparing spawn area: 36%
+[14:07:30 INFO]: Preparing spawn area: 80%
+[14:07:31 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[14:07:31 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:07:33 INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:07:33 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[14:07:33 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[14:07:33 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[14:07:33 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[14:07:33 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[14:07:33 INFO]: [RaspberryJuice] Using RELATIVE locations
+[14:07:33 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[14:07:33 INFO]: [RaspberryJuice] ThreadListener Started
+[14:07:33 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:07:33 INFO]: Done (12,135s)! For help, type "help" or "?"
+[14:07:43 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[14:07:43 INFO]: Welcome Minepluie
+
+[14:07:43 INFO]: Minepluie[/127.0.0.1:36280] logged in with entity id 90 at ([world]186.69999998807907, 63.0, 274.69999998807907)
+[14:07:44 INFO]: [RaspberryJuice] Starting input thread
+[14:07:44 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:37746.
+[14:07:44 INFO]: [RaspberryJuice] Starting output thread!
+[14:07:44 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[14:08:07 INFO]: Minepluie issued server command: //wand
+[14:09:22 INFO]: Minepluie issued server command: //replace 251:1 glowstone
+[14:09:26 WARN]: Minepluie moved too quickly! 0.0,10.069229660460067,0.0
+[14:09:42 INFO]: Minepluie issued server command: //undo
+[14:09:47 WARN]: Minepluie moved too quickly! 5.50437491762284,0.0,-10.341320123919331
+[14:10:05 INFO]: Minepluie issued server command: //replace glowstone jackolantern
+[14:10:29 INFO]: Minepluie issued server command: //replace 251:1 glowstone
+[14:11:13 INFO]: Minepluie issued server command: //set 251:1
+[14:11:38 INFO]: Minepluie issued server command: //set 251:1
+[14:12:12 INFO]: Minepluie issued server command: /gamemode a
+[14:12:12 INFO]: [Minepluie: Set own game mode to Adventure Mode]
+2025-10-28 14:12:17,895 Server thread WARN Unable to register Log4j shutdown hook because JVM is shutting down. Using SimpleLogger
+Loading libraries, please wait...
+[14:12:30 INFO]: Starting minecraft server version 1.12.1
+[14:12:30 INFO]: Loading properties
+[14:12:30 INFO]: Default game type: SURVIVAL
+[14:12:30 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[14:12:30 INFO]: Debug logging is disabled
+[14:12:30 INFO]: Server Ping Player Sample Count: 12
+
+[14:12:30 INFO]: Using 4 threads for Netty based IO
+[14:12:30 INFO]: Generating keypair
+[14:12:31 INFO]: Starting Minecraft server on *:25565
+[14:12:31 INFO]: Using epoll channel type
+[14:12:31 INFO]: Set PluginClassLoader as parallel capable
+[14:12:31 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:12:31 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[14:12:31 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:12:31 INFO]: Preparing level "world"
+[14:12:31 INFO]: -------- World Settings For [world] --------
+[14:12:31 INFO]: Mob Spawn Range: 4
+[14:12:31 INFO]: Cactus Growth Modifier: 100%
+[14:12:31 INFO]: Cane Growth Modifier: 100%
+[14:12:31 INFO]: Melon Growth Modifier: 100%
+[14:12:31 INFO]: Mushroom Growth Modifier: 100%
+[14:12:31 INFO]: Pumpkin Growth Modifier: 100%
+[14:12:31 INFO]: Sapling Growth Modifier: 100%
+[14:12:31 INFO]: Wheat Growth Modifier: 100%
+[14:12:31 INFO]: NetherWart Growth Modifier: 100%
+[14:12:31 INFO]: Vine Growth Modifier: 100%
+[14:12:31 INFO]: Cocoa Growth Modifier: 100%
+[14:12:31 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:12:31 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:12:31 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:12:31 INFO]: Random Lighting Updates: false
+[14:12:31 INFO]: Structure Info Saving: true
+[14:12:31 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:12:31 INFO]: Max TNT Explosions: 100
+[14:12:31 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:12:31 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:12:31 INFO]: Item Despawn Rate: 6000
+[14:12:31 INFO]: Item Merge Radius: 2.5
+[14:12:31 INFO]: Arrow Despawn Rate: 1200
+[14:12:31 INFO]: View Distance: 10
+[14:12:31 INFO]: Experience Merge Radius: 3.0
+[14:12:31 INFO]: Zombie Aggressive Towards Villager: true
+[14:12:31 INFO]: Nerfing mobs spawned from spawners: false
+[14:12:32 INFO]: -------- World Settings For [world_nether] --------
+[14:12:32 INFO]: Mob Spawn Range: 4
+[14:12:32 INFO]: Cactus Growth Modifier: 100%
+[14:12:32 INFO]: Cane Growth Modifier: 100%
+[14:12:32 INFO]: Melon Growth Modifier: 100%
+[14:12:32 INFO]: Mushroom Growth Modifier: 100%
+[14:12:32 INFO]: Pumpkin Growth Modifier: 100%
+[14:12:32 INFO]: Sapling Growth Modifier: 100%
+[14:12:32 INFO]: Wheat Growth Modifier: 100%
+[14:12:32 INFO]: NetherWart Growth Modifier: 100%
+[14:12:32 INFO]: Vine Growth Modifier: 100%
+[14:12:32 INFO]: Cocoa Growth Modifier: 100%
+[14:12:32 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:12:32 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:12:32 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:12:32 INFO]: Random Lighting Updates: false
+[14:12:32 INFO]: Structure Info Saving: true
+[14:12:32 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:12:32 INFO]: Max TNT Explosions: 100
+[14:12:32 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:12:32 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:12:32 INFO]: Item Despawn Rate: 6000
+[14:12:32 INFO]: Item Merge Radius: 2.5
+[14:12:32 INFO]: Arrow Despawn Rate: 1200
+[14:12:32 INFO]: View Distance: 10
+[14:12:32 INFO]: Experience Merge Radius: 3.0
+[14:12:32 INFO]: Zombie Aggressive Towards Villager: true
+[14:12:32 INFO]: Nerfing mobs spawned from spawners: false
+[14:12:32 INFO]: -------- World Settings For [world_the_end] --------
+[14:12:32 INFO]: Mob Spawn Range: 4
+[14:12:32 INFO]: Cactus Growth Modifier: 100%
+[14:12:32 INFO]: Cane Growth Modifier: 100%
+[14:12:32 INFO]: Melon Growth Modifier: 100%
+[14:12:32 INFO]: Mushroom Growth Modifier: 100%
+[14:12:32 INFO]: Pumpkin Growth Modifier: 100%
+[14:12:32 INFO]: Sapling Growth Modifier: 100%
+[14:12:32 INFO]: Wheat Growth Modifier: 100%
+[14:12:32 INFO]: NetherWart Growth Modifier: 100%
+[14:12:32 INFO]: Vine Growth Modifier: 100%
+[14:12:32 INFO]: Cocoa Growth Modifier: 100%
+[14:12:32 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:12:32 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:12:32 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:12:32 INFO]: Random Lighting Updates: false
+[14:12:32 INFO]: Structure Info Saving: true
+[14:12:32 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:12:32 INFO]: Max TNT Explosions: 100
+[14:12:32 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:12:32 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:12:32 INFO]: Item Despawn Rate: 6000
+[14:12:32 INFO]: Item Merge Radius: 2.5
+[14:12:32 INFO]: Arrow Despawn Rate: 1200
+[14:12:33 INFO]: View Distance: 10
+[14:12:33 INFO]: Experience Merge Radius: 3.0
+[14:12:33 INFO]: Zombie Aggressive Towards Villager: true
+[14:12:33 INFO]: Nerfing mobs spawned from spawners: false
+[14:12:33 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[14:12:34 INFO]: Preparing spawn area: 0%
+[14:12:35 INFO]: Preparing spawn area: 26%
+[14:12:36 INFO]: Preparing spawn area: 70%
+[14:12:36 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[14:12:37 INFO]: Preparing spawn area: 77%
+[14:12:37 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[14:12:38 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:12:38 INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:12:38 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[14:12:38 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[14:12:38 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[14:12:38 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[14:12:38 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[14:12:38 INFO]: [RaspberryJuice] Using RELATIVE locations
+[14:12:38 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[14:12:38 INFO]: [RaspberryJuice] ThreadListener Started
+[14:12:38 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:12:38 INFO]: Done (7,054s)! For help, type "help" or "?"
+[14:12:43 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[14:12:43 INFO]: Welcome Minepluie
+
+[14:12:44 INFO]: Minepluie[/127.0.0.1:53648] logged in with entity id 88 at ([world]186.476444548382, 62.0, 245.30000001192093)
+[14:12:44 INFO]: [RaspberryJuice] Starting input thread
+[14:12:44 INFO]: [RaspberryJuice] Starting output thread!
+[14:12:44 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:55640.
+[14:12:44 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[14:13:47 INFO]: 🍬 Bonbon récupéré !
+
+[14:14:02 INFO]: 🍬 Bonbon récupéré !
+
+[14:14:11 INFO]: 🍬 Bonbon récupéré !
+
+[14:14:13 INFO]: 🍬 Bonbon récupéré !
+
+[14:14:29 INFO]: 🍬 Bonbon récupéré !
+
+[14:15:00 INFO]: Minepluie issued server command: /gamemode c
+[14:15:00 INFO]: [Minepluie: Set own game mode to Creative Mode]
+[14:16:01 INFO]: Minepluie issued server command: //replace glowstone 251:1
+[14:16:36 INFO]: Minepluie issued server command: /gamemode a
+[14:16:36 INFO]: [Minepluie: Set own game mode to Adventure Mode]
+[14:16:38 INFO]: Minepluie tried to swim in lava
+[14:16:38 INFO]: Stopping server
+Loading libraries, please wait...
+[14:16:49 INFO]: Starting minecraft server version 1.12.1
+[14:16:49 INFO]: Loading properties
+[14:16:49 INFO]: Default game type: SURVIVAL
+[14:16:49 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[14:16:49 INFO]: Debug logging is disabled
+[14:16:49 INFO]: Server Ping Player Sample Count: 12
+
+[14:16:49 INFO]: Using 4 threads for Netty based IO
+[14:16:49 INFO]: Generating keypair
+[14:16:50 INFO]: Starting Minecraft server on *:25565
+[14:16:50 INFO]: Using epoll channel type
+[14:16:50 INFO]: Set PluginClassLoader as parallel capable
+[14:16:50 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:16:50 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[14:16:50 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:16:50 INFO]: Preparing level "world"
+[14:16:50 INFO]: -------- World Settings For [world] --------
+[14:16:50 INFO]: Cactus Growth Modifier: 100%
+[14:16:50 INFO]: Cane Growth Modifier: 100%
+[14:16:50 INFO]: Melon Growth Modifier: 100%
+[14:16:50 INFO]: Mushroom Growth Modifier: 100%
+[14:16:50 INFO]: Pumpkin Growth Modifier: 100%
+[14:16:50 INFO]: Sapling Growth Modifier: 100%
+[14:16:50 INFO]: Wheat Growth Modifier: 100%
+[14:16:50 INFO]: NetherWart Growth Modifier: 100%
+[14:16:50 INFO]: Vine Growth Modifier: 100%
+[14:16:50 INFO]: Cocoa Growth Modifier: 100%
+[14:16:50 INFO]: Mob Spawn Range: 4
+[14:16:50 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:16:50 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:16:50 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:16:50 INFO]: Random Lighting Updates: false
+[14:16:50 INFO]: Structure Info Saving: true
+[14:16:50 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:16:50 INFO]: Max TNT Explosions: 100
+[14:16:50 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:16:50 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:16:50 INFO]: Item Despawn Rate: 6000
+[14:16:50 INFO]: Item Merge Radius: 2.5
+[14:16:50 INFO]: Arrow Despawn Rate: 1200
+[14:16:50 INFO]: View Distance: 10
+[14:16:50 INFO]: Experience Merge Radius: 3.0
+[14:16:50 INFO]: Zombie Aggressive Towards Villager: true
+[14:16:50 INFO]: Nerfing mobs spawned from spawners: false
+[14:16:51 INFO]: -------- World Settings For [world_nether] --------
+[14:16:51 INFO]: Cactus Growth Modifier: 100%
+[14:16:51 INFO]: Cane Growth Modifier: 100%
+[14:16:51 INFO]: Melon Growth Modifier: 100%
+[14:16:51 INFO]: Mushroom Growth Modifier: 100%
+[14:16:51 INFO]: Pumpkin Growth Modifier: 100%
+[14:16:51 INFO]: Sapling Growth Modifier: 100%
+[14:16:51 INFO]: Wheat Growth Modifier: 100%
+[14:16:51 INFO]: NetherWart Growth Modifier: 100%
+[14:16:51 INFO]: Vine Growth Modifier: 100%
+[14:16:51 INFO]: Cocoa Growth Modifier: 100%
+[14:16:51 INFO]: Mob Spawn Range: 4
+[14:16:51 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:16:51 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:16:51 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:16:51 INFO]: Random Lighting Updates: false
+[14:16:51 INFO]: Structure Info Saving: true
+[14:16:51 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:16:51 INFO]: Max TNT Explosions: 100
+[14:16:51 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:16:51 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:16:51 INFO]: Item Despawn Rate: 6000
+[14:16:51 INFO]: Item Merge Radius: 2.5
+[14:16:51 INFO]: Arrow Despawn Rate: 1200
+[14:16:51 INFO]: View Distance: 10
+[14:16:51 INFO]: Experience Merge Radius: 3.0
+[14:16:51 INFO]: Zombie Aggressive Towards Villager: true
+[14:16:51 INFO]: Nerfing mobs spawned from spawners: false
+[14:16:51 INFO]: -------- World Settings For [world_the_end] --------
+[14:16:51 INFO]: Cactus Growth Modifier: 100%
+[14:16:51 INFO]: Cane Growth Modifier: 100%
+[14:16:51 INFO]: Melon Growth Modifier: 100%
+[14:16:51 INFO]: Mushroom Growth Modifier: 100%
+[14:16:51 INFO]: Pumpkin Growth Modifier: 100%
+[14:16:51 INFO]: Sapling Growth Modifier: 100%
+[14:16:51 INFO]: Wheat Growth Modifier: 100%
+[14:16:51 INFO]: NetherWart Growth Modifier: 100%
+[14:16:51 INFO]: Vine Growth Modifier: 100%
+[14:16:51 INFO]: Cocoa Growth Modifier: 100%
+[14:16:51 INFO]: Mob Spawn Range: 4
+[14:16:51 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:16:51 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:16:51 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:16:51 INFO]: Random Lighting Updates: false
+[14:16:51 INFO]: Structure Info Saving: true
+[14:16:51 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:16:51 INFO]: Max TNT Explosions: 100
+[14:16:51 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:16:51 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:16:51 INFO]: Item Despawn Rate: 6000
+[14:16:51 INFO]: Item Merge Radius: 2.5
+[14:16:51 INFO]: Arrow Despawn Rate: 1200
+[14:16:51 INFO]: View Distance: 10
+[14:16:51 INFO]: Experience Merge Radius: 3.0
+[14:16:51 INFO]: Zombie Aggressive Towards Villager: true
+[14:16:51 INFO]: Nerfing mobs spawned from spawners: false
+[14:16:52 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[14:16:53 INFO]: Preparing spawn area: 0%
+[14:16:54 INFO]: Preparing spawn area: 17%
+[14:16:55 INFO]: Preparing spawn area: 61%
+[14:16:55 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[14:16:56 INFO]: Preparing spawn area: 74%
+[14:16:57 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[14:16:57 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:16:57 INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:16:58 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[14:16:58 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[14:16:58 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[14:16:58 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[14:16:58 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[14:16:58 INFO]: [RaspberryJuice] Using RELATIVE locations
+[14:16:58 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[14:16:58 INFO]: [RaspberryJuice] ThreadListener Started
+[14:16:58 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:16:58 INFO]: Done (7,265s)! For help, type "help" or "?"
+[14:17:06 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[14:17:06 INFO]: Welcome Minepluie
+
+[14:17:07 INFO]: Minepluie[/127.0.0.1:40176] logged in with entity id 87 at ([world]192.5851452605009, 66.0, 249.97825870512122)
+[14:17:07 INFO]: [RaspberryJuice] Starting input thread
+[14:17:07 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51880.
+[14:17:07 INFO]: [RaspberryJuice] Starting output thread!
+[14:17:07 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[14:17:26 INFO]: 🍬 Bonbon récupéré !
+
+[14:17:40 INFO]: 🍬 Bonbon récupéré !
+
+[14:17:45 INFO]: Minepluie issued server command: /gamemode c
+[14:17:45 INFO]: [Minepluie: Set own game mode to Creative Mode]
+[14:18:01 INFO]: Minepluie issued server command: /clear
+[14:18:01 INFO]: [Minepluie: Cleared the inventory of Minepluie, removing 1 items]
+[14:18:07 INFO]: Stopping server
+Loading libraries, please wait...
+[14:18:17 INFO]: Starting minecraft server version 1.12.1
+[14:18:17 INFO]: Loading properties
+[14:18:17 INFO]: Default game type: SURVIVAL
+[14:18:17 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[14:18:17 INFO]: Debug logging is disabled
+[14:18:17 INFO]: Server Ping Player Sample Count: 12
+
+[14:18:17 INFO]: Using 4 threads for Netty based IO
+[14:18:17 INFO]: Generating keypair
+[14:18:18 INFO]: Starting Minecraft server on *:25565
+[14:18:18 INFO]: Using epoll channel type
+[14:18:18 INFO]: Set PluginClassLoader as parallel capable
+[14:18:18 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:18:18 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[14:18:18 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:18:18 INFO]: Preparing level "world"
+[14:18:18 INFO]: -------- World Settings For [world] --------
+[14:18:18 INFO]: Cactus Growth Modifier: 100%
+[14:18:18 INFO]: Cane Growth Modifier: 100%
+[14:18:18 INFO]: Melon Growth Modifier: 100%
+[14:18:18 INFO]: Mushroom Growth Modifier: 100%
+[14:18:18 INFO]: Pumpkin Growth Modifier: 100%
+[14:18:18 INFO]: Sapling Growth Modifier: 100%
+[14:18:18 INFO]: Wheat Growth Modifier: 100%
+[14:18:18 INFO]: NetherWart Growth Modifier: 100%
+[14:18:18 INFO]: Vine Growth Modifier: 100%
+[14:18:18 INFO]: Cocoa Growth Modifier: 100%
+[14:18:18 INFO]: Mob Spawn Range: 4
+[14:18:18 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:18:18 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:18:18 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:18:18 INFO]: Random Lighting Updates: false
+[14:18:18 INFO]: Structure Info Saving: true
+[14:18:18 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:18:18 INFO]: Max TNT Explosions: 100
+[14:18:18 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:18:18 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:18:18 INFO]: Item Despawn Rate: 6000
+[14:18:18 INFO]: Item Merge Radius: 2.5
+[14:18:18 INFO]: Arrow Despawn Rate: 1200
+[14:18:18 INFO]: View Distance: 10
+[14:18:18 INFO]: Experience Merge Radius: 3.0
+[14:18:18 INFO]: Zombie Aggressive Towards Villager: true
+[14:18:18 INFO]: Nerfing mobs spawned from spawners: false
+[14:18:19 INFO]: -------- World Settings For [world_nether] --------
+[14:18:19 INFO]: Cactus Growth Modifier: 100%
+[14:18:19 INFO]: Cane Growth Modifier: 100%
+[14:18:19 INFO]: Melon Growth Modifier: 100%
+[14:18:19 INFO]: Mushroom Growth Modifier: 100%
+[14:18:19 INFO]: Pumpkin Growth Modifier: 100%
+[14:18:19 INFO]: Sapling Growth Modifier: 100%
+[14:18:19 INFO]: Wheat Growth Modifier: 100%
+[14:18:19 INFO]: NetherWart Growth Modifier: 100%
+[14:18:19 INFO]: Vine Growth Modifier: 100%
+[14:18:19 INFO]: Cocoa Growth Modifier: 100%
+[14:18:19 INFO]: Mob Spawn Range: 4
+[14:18:19 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:18:19 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:18:19 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:18:19 INFO]: Random Lighting Updates: false
+[14:18:19 INFO]: Structure Info Saving: true
+[14:18:19 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:18:19 INFO]: Max TNT Explosions: 100
+[14:18:19 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:18:19 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:18:19 INFO]: Item Despawn Rate: 6000
+[14:18:19 INFO]: Item Merge Radius: 2.5
+[14:18:19 INFO]: Arrow Despawn Rate: 1200
+[14:18:19 INFO]: View Distance: 10
+[14:18:19 INFO]: Experience Merge Radius: 3.0
+[14:18:19 INFO]: Zombie Aggressive Towards Villager: true
+[14:18:19 INFO]: Nerfing mobs spawned from spawners: false
+[14:18:19 INFO]: -------- World Settings For [world_the_end] --------
+[14:18:19 INFO]: Cactus Growth Modifier: 100%
+[14:18:19 INFO]: Cane Growth Modifier: 100%
+[14:18:19 INFO]: Melon Growth Modifier: 100%
+[14:18:19 INFO]: Mushroom Growth Modifier: 100%
+[14:18:19 INFO]: Pumpkin Growth Modifier: 100%
+[14:18:19 INFO]: Sapling Growth Modifier: 100%
+[14:18:19 INFO]: Wheat Growth Modifier: 100%
+[14:18:19 INFO]: NetherWart Growth Modifier: 100%
+[14:18:19 INFO]: Vine Growth Modifier: 100%
+[14:18:19 INFO]: Cocoa Growth Modifier: 100%
+[14:18:19 INFO]: Mob Spawn Range: 4
+[14:18:19 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:18:19 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:18:19 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:18:19 INFO]: Random Lighting Updates: false
+[14:18:19 INFO]: Structure Info Saving: true
+[14:18:19 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:18:19 INFO]: Max TNT Explosions: 100
+[14:18:19 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:18:19 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:18:19 INFO]: Item Despawn Rate: 6000
+[14:18:19 INFO]: Item Merge Radius: 2.5
+[14:18:19 INFO]: Arrow Despawn Rate: 1200
+[14:18:19 INFO]: View Distance: 10
+[14:18:19 INFO]: Experience Merge Radius: 3.0
+[14:18:19 INFO]: Zombie Aggressive Towards Villager: true
+[14:18:19 INFO]: Nerfing mobs spawned from spawners: false
+[14:18:19 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[14:18:20 INFO]: Preparing spawn area: 1%
+[14:18:21 INFO]: Preparing spawn area: 29%
+[14:18:22 INFO]: Preparing spawn area: 70%
+[14:18:23 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[14:18:24 INFO]: Preparing spawn area: 79%
+[14:18:24 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[14:18:25 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:18:25 INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:18:25 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[14:18:25 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[14:18:25 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[14:18:25 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[14:18:25 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[14:18:25 INFO]: [RaspberryJuice] Using RELATIVE locations
+[14:18:25 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[14:18:25 INFO]: [RaspberryJuice] ThreadListener Started
+[14:18:25 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:18:25 INFO]: Done (7,095s)! For help, type "help" or "?"
+[14:18:28 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[14:18:28 INFO]: Welcome Minepluie
+
+[14:18:29 INFO]: Minepluie[/127.0.0.1:57264] logged in with entity id 87 at ([world]195.64240824753958, 62.0, 262.9495647462502)
+[14:18:29 INFO]: [RaspberryJuice] Starting input thread
+[14:18:29 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:55158.
+[14:18:29 INFO]: [RaspberryJuice] Starting output thread!
+[14:18:29 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[14:18:58 INFO]: Minepluie lost connection: Disconnected
+[14:18:58 INFO]: Minepluie left the game
+[14:19:03 INFO]: Stopping server
+[14:19:03 INFO]: [RaspberryJuice] Disabling RaspberryJuice v1.12.1
+Loading libraries, please wait...
+[14:41:20 INFO]: Starting minecraft server version 1.12.1
+[14:41:20 INFO]: Loading properties
+[14:41:20 INFO]: Default game type: SURVIVAL
+[14:41:20 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[14:41:20 INFO]: Debug logging is disabled
+[14:41:20 INFO]: Server Ping Player Sample Count: 12
+
+[14:41:20 INFO]: Using 4 threads for Netty based IO
+[14:41:20 INFO]: Generating keypair
+[14:41:20 INFO]: Starting Minecraft server on *:25565
+[14:41:21 INFO]: Using epoll channel type
+[14:41:21 INFO]: Set PluginClassLoader as parallel capable
+[14:41:21 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:41:21 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[14:41:21 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:41:21 INFO]: Preparing level "world"
+[14:41:21 INFO]: -------- World Settings For [world] --------
+[14:41:21 INFO]: Cactus Growth Modifier: 100%
+[14:41:21 INFO]: Cane Growth Modifier: 100%
+[14:41:21 INFO]: Melon Growth Modifier: 100%
+[14:41:21 INFO]: Mushroom Growth Modifier: 100%
+[14:41:21 INFO]: Pumpkin Growth Modifier: 100%
+[14:41:21 INFO]: Sapling Growth Modifier: 100%
+[14:41:21 INFO]: Wheat Growth Modifier: 100%
+[14:41:21 INFO]: NetherWart Growth Modifier: 100%
+[14:41:21 INFO]: Vine Growth Modifier: 100%
+[14:41:21 INFO]: Cocoa Growth Modifier: 100%
+[14:41:21 INFO]: Mob Spawn Range: 4
+[14:41:21 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:41:21 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:41:21 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:41:21 INFO]: Random Lighting Updates: false
+[14:41:21 INFO]: Structure Info Saving: true
+[14:41:21 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:41:21 INFO]: Max TNT Explosions: 100
+[14:41:21 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:41:21 INFO]: Arrow Despawn Rate: 1200
+[14:41:21 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:41:21 INFO]: Item Despawn Rate: 6000
+[14:41:21 INFO]: Item Merge Radius: 2.5
+[14:41:21 INFO]: View Distance: 10
+[14:41:21 INFO]: Experience Merge Radius: 3.0
+[14:41:21 INFO]: Zombie Aggressive Towards Villager: true
+[14:41:21 INFO]: Nerfing mobs spawned from spawners: false
+[14:41:22 INFO]: -------- World Settings For [world_nether] --------
+[14:41:22 INFO]: Cactus Growth Modifier: 100%
+[14:41:22 INFO]: Cane Growth Modifier: 100%
+[14:41:22 INFO]: Melon Growth Modifier: 100%
+[14:41:22 INFO]: Mushroom Growth Modifier: 100%
+[14:41:22 INFO]: Pumpkin Growth Modifier: 100%
+[14:41:22 INFO]: Sapling Growth Modifier: 100%
+[14:41:22 INFO]: Wheat Growth Modifier: 100%
+[14:41:22 INFO]: NetherWart Growth Modifier: 100%
+[14:41:22 INFO]: Vine Growth Modifier: 100%
+[14:41:22 INFO]: Cocoa Growth Modifier: 100%
+[14:41:22 INFO]: Mob Spawn Range: 4
+[14:41:22 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:41:22 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:41:22 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:41:22 INFO]: Random Lighting Updates: false
+[14:41:22 INFO]: Structure Info Saving: true
+[14:41:22 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:41:22 INFO]: Max TNT Explosions: 100
+[14:41:22 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:41:22 INFO]: Arrow Despawn Rate: 1200
+[14:41:22 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:41:22 INFO]: Item Despawn Rate: 6000
+[14:41:22 INFO]: Item Merge Radius: 2.5
+[14:41:22 INFO]: View Distance: 10
+[14:41:22 INFO]: Experience Merge Radius: 3.0
+[14:41:22 INFO]: Zombie Aggressive Towards Villager: true
+[14:41:22 INFO]: Nerfing mobs spawned from spawners: false
+[14:41:22 INFO]: -------- World Settings For [world_the_end] --------
+[14:41:22 INFO]: Cactus Growth Modifier: 100%
+[14:41:22 INFO]: Cane Growth Modifier: 100%
+[14:41:22 INFO]: Melon Growth Modifier: 100%
+[14:41:22 INFO]: Mushroom Growth Modifier: 100%
+[14:41:22 INFO]: Pumpkin Growth Modifier: 100%
+[14:41:22 INFO]: Sapling Growth Modifier: 100%
+[14:41:22 INFO]: Wheat Growth Modifier: 100%
+[14:41:22 INFO]: NetherWart Growth Modifier: 100%
+[14:41:22 INFO]: Vine Growth Modifier: 100%
+[14:41:22 INFO]: Cocoa Growth Modifier: 100%
+[14:41:22 INFO]: Mob Spawn Range: 4
+[14:41:22 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:41:22 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:41:22 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:41:22 INFO]: Random Lighting Updates: false
+[14:41:22 INFO]: Structure Info Saving: true
+[14:41:22 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:41:22 INFO]: Max TNT Explosions: 100
+[14:41:22 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:41:22 INFO]: Arrow Despawn Rate: 1200
+[14:41:22 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:41:22 INFO]: Item Despawn Rate: 6000
+[14:41:22 INFO]: Item Merge Radius: 2.5
+[14:41:22 INFO]: View Distance: 10
+[14:41:22 INFO]: Experience Merge Radius: 3.0
+[14:41:22 INFO]: Zombie Aggressive Towards Villager: true
+[14:41:22 INFO]: Nerfing mobs spawned from spawners: false
+[14:41:22 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[14:41:23 INFO]: Preparing spawn area: 0%
+[14:41:24 INFO]: Preparing spawn area: 18%
+[14:41:25 INFO]: Preparing spawn area: 58%
+[14:41:26 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[14:41:27 INFO]: Preparing spawn area: 80%
+[14:41:27 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[14:41:27 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:41:28 INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:41:28 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[14:41:28 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[14:41:28 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[14:41:28 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[14:41:28 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[14:41:28 INFO]: [RaspberryJuice] Using RELATIVE locations
+[14:41:28 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[14:41:28 INFO]: [RaspberryJuice] ThreadListener Started
+[14:41:28 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:41:28 INFO]: Done (7,017s)! For help, type "help" or "?"
+[14:41:39 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[14:41:39 INFO]: Welcome Minepluie
+
+[14:41:39 INFO]: Minepluie[/127.0.0.1:60032] logged in with entity id 87 at ([world]221.27070886807573, 62.0, 254.8088818326359)
+[14:41:40 INFO]: [RaspberryJuice] Starting input thread
+[14:41:40 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:37766.
+[14:41:40 INFO]: [RaspberryJuice] Starting output thread!
+[14:41:40 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[14:41:52 INFO]: Minepluie issued server command: /gamemode a
+[14:41:52 INFO]: [Minepluie: Set own game mode to Adventure Mode]
+[14:42:41 INFO]: 🍬 Bonbon récupéré !
+
+[14:42:48 INFO]: 🍬 Bonbon récupéré !
+
+[14:42:57 INFO]: 🍬 Bonbon récupéré !
+
+[14:43:00 INFO]: 🍬 Bonbon récupéré !
+
+[14:43:13 INFO]: Minepluie tried to swim in lava
+[14:44:08 INFO]: 🍬 Bonbon récupéré !
+
+[14:44:14 INFO]: 🍬 Bonbon récupéré !
+
+[14:44:18 INFO]: 🍬 Bonbon récupéré !
+
+[14:44:49 INFO]: Minepluie tried to swim in lava
+[14:45:24 INFO]: Minepluie issued server command: /gamemode c
+[14:45:24 INFO]: [Minepluie: Set own game mode to Creative Mode]
+[14:45:51 INFO]: Minepluie issued server command: /gamemode a
+[14:45:51 INFO]: [Minepluie: Set own game mode to Adventure Mode]
+[14:45:54 INFO]: Minepluie issued server command: /clear
+[14:45:54 INFO]: [Minepluie: Cleared the inventory of Minepluie, removing 1 items]
+[14:46:09 INFO]: Minepluie tried to swim in lava
+[14:47:31 INFO]: 🍬 Bonbon récupéré !
+
+[14:47:35 INFO]: 🍬 Bonbon récupéré !
+
+[14:49:10 INFO]: 🍬 Bonbon récupéré !
+
+[14:49:10 INFO]: 🎉 Vous avez tout trouvé !
+
+[14:49:16 INFO]: 🏆 Tu as gagné ! Félicitations 🎃
+
+[14:49:17 INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:37766.
+Invalid initial heap size: -Xms512M -Xmx1024M -jar spigot.jar nogui
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+Loading libraries, please wait...
+[14:52:41 INFO]: Starting minecraft server version 1.12.1
+[14:52:41 INFO]: Loading properties
+[14:52:42 INFO]: Default game type: SURVIVAL
+[14:52:42 INFO]: This server is running CraftBukkit version git-Spigot-da42974-8f47214 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[14:52:42 INFO]: Debug logging is disabled
+[14:52:42 INFO]: Server Ping Player Sample Count: 12
+
+[14:52:42 INFO]: Using 4 threads for Netty based IO
+[14:52:42 INFO]: Generating keypair
+[14:52:43 INFO]: Starting Minecraft server on *:25565
+[14:52:43 INFO]: Using epoll channel type
+[14:52:43 INFO]: Set PluginClassLoader as parallel capable
+[14:52:43 INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:52:43 INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[14:52:43 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:52:43 INFO]: Preparing level "world"
+[14:52:43 INFO]: -------- World Settings For [world] --------
+[14:52:43 INFO]: Cactus Growth Modifier: 100%
+[14:52:43 INFO]: Cane Growth Modifier: 100%
+[14:52:43 INFO]: Melon Growth Modifier: 100%
+[14:52:43 INFO]: Mushroom Growth Modifier: 100%
+[14:52:43 INFO]: Pumpkin Growth Modifier: 100%
+[14:52:43 INFO]: Sapling Growth Modifier: 100%
+[14:52:43 INFO]: Wheat Growth Modifier: 100%
+[14:52:43 INFO]: NetherWart Growth Modifier: 100%
+[14:52:43 INFO]: Vine Growth Modifier: 100%
+[14:52:43 INFO]: Cocoa Growth Modifier: 100%
+[14:52:43 INFO]: Mob Spawn Range: 4
+[14:52:43 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:52:43 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:52:43 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:52:43 INFO]: Random Lighting Updates: false
+[14:52:43 INFO]: Structure Info Saving: true
+[14:52:43 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:52:43 INFO]: Max TNT Explosions: 100
+[14:52:43 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:52:43 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:52:43 INFO]: Item Despawn Rate: 6000
+[14:52:43 INFO]: Item Merge Radius: 2.5
+[14:52:43 INFO]: Arrow Despawn Rate: 1200
+[14:52:43 INFO]: View Distance: 10
+[14:52:43 INFO]: Experience Merge Radius: 3.0
+[14:52:43 INFO]: Zombie Aggressive Towards Villager: true
+[14:52:43 INFO]: Nerfing mobs spawned from spawners: false
+[14:52:44 INFO]: -------- World Settings For [world_nether] --------
+[14:52:44 INFO]: Cactus Growth Modifier: 100%
+[14:52:44 INFO]: Cane Growth Modifier: 100%
+[14:52:44 INFO]: Melon Growth Modifier: 100%
+[14:52:44 INFO]: Mushroom Growth Modifier: 100%
+[14:52:44 INFO]: Pumpkin Growth Modifier: 100%
+[14:52:44 INFO]: Sapling Growth Modifier: 100%
+[14:52:44 INFO]: Wheat Growth Modifier: 100%
+[14:52:44 INFO]: NetherWart Growth Modifier: 100%
+[14:52:44 INFO]: Vine Growth Modifier: 100%
+[14:52:44 INFO]: Cocoa Growth Modifier: 100%
+[14:52:44 INFO]: Mob Spawn Range: 4
+[14:52:44 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:52:44 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:52:44 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:52:44 INFO]: Random Lighting Updates: false
+[14:52:44 INFO]: Structure Info Saving: true
+[14:52:44 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:52:44 INFO]: Max TNT Explosions: 100
+[14:52:44 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:52:44 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:52:44 INFO]: Item Despawn Rate: 6000
+[14:52:44 INFO]: Item Merge Radius: 2.5
+[14:52:44 INFO]: Arrow Despawn Rate: 1200
+[14:52:44 INFO]: View Distance: 10
+[14:52:44 INFO]: Experience Merge Radius: 3.0
+[14:52:44 INFO]: Zombie Aggressive Towards Villager: true
+[14:52:44 INFO]: Nerfing mobs spawned from spawners: false
+[14:52:44 INFO]: -------- World Settings For [world_the_end] --------
+[14:52:44 INFO]: Cactus Growth Modifier: 100%
+[14:52:44 INFO]: Cane Growth Modifier: 100%
+[14:52:44 INFO]: Melon Growth Modifier: 100%
+[14:52:44 INFO]: Mushroom Growth Modifier: 100%
+[14:52:44 INFO]: Pumpkin Growth Modifier: 100%
+[14:52:44 INFO]: Sapling Growth Modifier: 100%
+[14:52:44 INFO]: Wheat Growth Modifier: 100%
+[14:52:44 INFO]: NetherWart Growth Modifier: 100%
+[14:52:44 INFO]: Vine Growth Modifier: 100%
+[14:52:44 INFO]: Cocoa Growth Modifier: 100%
+[14:52:44 INFO]: Mob Spawn Range: 4
+[14:52:44 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:52:44 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:52:44 INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:52:44 INFO]: Random Lighting Updates: false
+[14:52:44 INFO]: Structure Info Saving: true
+[14:52:44 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:52:44 INFO]: Max TNT Explosions: 100
+[14:52:44 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:52:44 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:52:44 INFO]: Item Despawn Rate: 6000
+[14:52:44 INFO]: Item Merge Radius: 2.5
+[14:52:44 INFO]: Arrow Despawn Rate: 1200
+[14:52:44 INFO]: View Distance: 10
+[14:52:44 INFO]: Experience Merge Radius: 3.0
+[14:52:44 INFO]: Zombie Aggressive Towards Villager: true
+[14:52:44 INFO]: Nerfing mobs spawned from spawners: false
+[14:52:45 INFO]: Preparing start region for level 0 (Seed: -4450422999732871807)
+[14:52:46 INFO]: Preparing spawn area: 0%
+[14:52:47 INFO]: Preparing spawn area: 20%
+[14:52:48 INFO]: Preparing spawn area: 54%
+[14:52:49 INFO]: Preparing start region for level 1 (Seed: 855079713024034047)
+[14:52:50 INFO]: Preparing spawn area: 52%
+[14:52:50 INFO]: Preparing start region for level 2 (Seed: 855079713024034047)
+[14:52:51 INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[14:52:52 INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:52:52 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[14:52:52 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 21.0.8).
+[14:52:52 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[14:52:52 INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[14:52:52 INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[14:52:52 INFO]: [RaspberryJuice] Using RELATIVE locations
+[14:52:52 INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[14:52:52 INFO]: [RaspberryJuice] ThreadListener Started
+[14:52:52 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:52:52 INFO]: Done (8,704s)! For help, type "help" or "?"
+[14:53:09 INFO]: UUID of player Minepluie is cf7af86a-2813-4d28-9214-fca6c7fb89ea
+[14:53:10 INFO]: Welcome Minepluie
+
+[14:53:10 INFO]: Minepluie[/127.0.0.1:32968] logged in with entity id 88 at ([world]186.39919744955182, 62.0, 271.78025631570534)
+[14:53:10 INFO]: [RaspberryJuice] Starting input thread
+[14:53:10 INFO]: [RaspberryJuice] Starting output thread!
+[14:53:10 INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:39554.
+[14:53:10 INFO]: 🎃 Chasse aux bonbons lancée !
+
+[14:54:40 INFO]: 🍬 Bonbon récupéré !
+
+[14:55:10 INFO]: 🍬 Bonbon récupéré !
+
+[14:55:14 INFO]: 🍬 Bonbon récupéré !
+
+[14:55:18 INFO]: 🍬 Bonbon récupéré !
+
+[14:57:50 INFO]: 🍬 Bonbon récupéré !
+
+[14:57:57 INFO]: 🍬 Bonbon récupéré !
+
+[14:57:59 INFO]: 🍬 Bonbon récupéré !
+
+[14:59:08 INFO]: 🍬 Bonbon récupéré !
+
+[14:59:24 INFO]: 🍬 Bonbon récupéré !
+
+[14:59:40 INFO]: 🍬 Bonbon récupéré !
+
+[14:59:40 INFO]: 🎉 Vous avez tout trouvé !
+
+[14:59:52 INFO]: 🏆 Tu as gagné ! Félicitations 🎃
+
+[14:59:53 INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:39554.
+[15:00:09 INFO]: Minepluie lost connection: Disconnected
+[15:00:09 INFO]: Minepluie left the game
+[15:00:13 INFO]: Stopping server
