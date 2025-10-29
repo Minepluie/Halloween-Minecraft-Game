@@ -11,7 +11,7 @@ os.chdir(server_dir)
 
 # --- Lancer le serveur Minecraft en arrière-plan avec flush des logs ---
 server_process = subprocess.Popen(
-    ["stdbuf", "-oL", "java", "-Xms512M", "-Xmx1024M", "-jar", "spigot.jar", "nogui"],
+    ["java", "-Xms512M", "-Xmx1024M", "-jar", "spigot.jar", "nogui"],
     stdout=subprocess.PIPE,
     stderr=subprocess.STDOUT,
     text=True
