@@ -6,7 +6,7 @@ import time
 # Connexion à Minecraft
 mc = minecraft.Minecraft.create()
 mc.player.setPos(0,0,0)
-mc.postToChat("🎃 Chasse aux bonbons lancée !")
+mc.postToChat("Chasse aux bonbons lancée !")
 
 # --- Liste de toutes les coordonnées possibles ---
 coord_list = [
@@ -43,19 +43,19 @@ while True:
     # Si le joueur trouve un bonbon
     if current_pos in coord and current_pos not in visited_coords:
         mc.setBlock(pos.x, pos.y, pos.z, block.AIR)
-        mc.postToChat("🍬 Bonbon récupéré !")
+        mc.postToChat("Bonbon récupéré !")
         visited_coords.append(current_pos)
         coord.remove(current_pos)
         nbr_bonbon += 1
 
     # Si tous les bonbons sont trouvés
     if nbr_bonbon == total_bonbons and not find_all:
-        mc.postToChat("🎉 Vous avez tout trouvé !")
+        mc.postToChat("Vous avez tout trouvé !")
         find_all = True
 
     # Condition de victoire (porte magique)
     if pos.x == -27 and pos.y == 21 and (pos.z == 2 or pos.z == 3) and find_all:
-        mc.postToChat("🏆 Tu as gagné ! Félicitations 🎃")
+        mc.postToChat("Tu as gagné ! Félicitations")
         mc.player.setPos(-30, 0, 16)
         break
 
